@@ -1,0 +1,38 @@
+{
+  "name": "@nykaa/logger",
+  "description": "logger",
+  "version": "0.2.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "devDependencies": {
+    "typescript": "3.9.5"
+  },
+  "dependencies": {
+    "@sentry/react": "6.9.0",
+    "@sentry/tracing": "6.9.0",
+    "raven-js": "3.26.3",
+    "winston": "3.2.1"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

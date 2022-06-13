@@ -1,0 +1,1520 @@
+{
+    "status": "success",
+    "response": {
+        "wData": [
+            {
+                "wType": "PRODUCT_PRIMARY_INFO",
+                "wTitle": "Product Primary Info",
+                "wSubTitle": "",
+                "data": {
+                    "id": "2097765",
+                    "sku": "ZIVA04697",
+                    "price": 445,
+                    "discountedPrice": 245,
+                    "discount": 45,
+                    "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                    "tags": [
+                        {
+                            "title": "EXPRESS DELIVERY",
+                            "titleColor": "#142536",
+                            "bgColor": "#ebf4ff",
+                            "borderColor": "#C5DDFF",
+                            "transparency": "FF",
+                            "transparency_web": 1,
+                            "imageUrl": ""
+                        }
+                    ],
+                    "options": {
+                        "siblings": {
+                            "type": "size",
+                            "values": [
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188546",
+                                                "sku": "NYZIVA0033746",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (32B)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32B) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32B),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32B) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188549",
+                                                "sku": "NYZIVA0033749",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (34B)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (34B) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (34B),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (34B) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188554",
+                                                "sku": "NYZIVA0033754",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (36D)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36D) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36D),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36D) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188547",
+                                                "sku": "NYZIVA0033747",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (32C)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32C) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32C),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32C) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188548",
+                                                "sku": "NYZIVA0033748",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (32D)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32D) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32D),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (32D) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188550",
+                                                "sku": "NYZIVA0033750",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (34C)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (34C) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (34C),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (34C) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188552",
+                                                "sku": "NYZIVA0033752",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (36B)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36B) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36B),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36B) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                },
+                                {
+                                    "wData": [
+                                        {
+                                            "wType": "PRODUCT_PRIMARY_INFO",
+                                            "wTitle": "Product Primary Info",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "id": "188553",
+                                                "sku": "NYZIVA0033753",
+                                                "price": 445,
+                                                "discountedPrice": 245,
+                                                "discount": 45,
+                                                "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558",
+                                                "tags": [
+                                                    {
+                                                        "title": "EXPRESS DELIVERY",
+                                                        "titleColor": "#142536",
+                                                        "bgColor": "#ebf4ff",
+                                                        "borderColor": "#C5DDFF",
+                                                        "transparency": "FF",
+                                                        "transparency_web": 1,
+                                                        "imageUrl": ""
+                                                    }
+                                                ],
+                                                "options": {},
+                                                "title": "Zivame",
+                                                "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red (36C)",
+                                                "categoryName": "Zivame",
+                                                "isOutOfStock": true,
+                                                "videoMediaSources": [],
+                                                "productMediaList": [
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                        "position": "1"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                                                        "position": "2"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                                                        "position": "3"
+                                                    },
+                                                    {
+                                                        "aspectRatio": 0.75,
+                                                        "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                                                        "position": "4"
+                                                    }
+                                                ],
+                                                "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                                                "color": {
+                                                    "name": "Red",
+                                                    "colorCode": "#ff0026",
+                                                    "url": ""
+                                                },
+                                                "showWishListButton": false,
+                                                "brandId": "4107",
+                                                "brandActionUrl": "/designers/zivame/c/4107"
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_DESCRIPTION",
+                                            "wTitle": "Product Information",
+                                            "wSubTitle": "",
+                                            "dataList": [
+                                                {
+                                                    "slug": "description",
+                                                    "title": "Description",
+                                                    "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                                                },
+                                                {
+                                                    "slug": "product_details_attributes",
+                                                    "title": "Product Details",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Material",
+                                                            "value": "Polyester"
+                                                        },
+                                                        {
+                                                            "key": "Padding",
+                                                            "value": "Non-Padded"
+                                                        },
+                                                        {
+                                                            "key": "Wiring",
+                                                            "value": "Wireless"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "size_fit_attributes",
+                                                    "title": "Size & Fit",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "Coverage",
+                                                            "value": "Medium Coverage"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "slug": "pack_contains",
+                                                    "title": "Pack Contains",
+                                                    "value": "1 Bra"
+                                                },
+                                                {
+                                                    "slug": "sold_by",
+                                                    "title": "Sold By",
+                                                    "value": "Mila Star Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "country_of_origin",
+                                                    "title": "Country of Origin",
+                                                    "value": "India"
+                                                },
+                                                {
+                                                    "slug": "name_of_manufacturer",
+                                                    "title": "Name of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited"
+                                                },
+                                                {
+                                                    "slug": "address_of_manufacturer",
+                                                    "title": "Address of Manufacturer/ Packer/ Importer",
+                                                    "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                                                },
+                                                {
+                                                    "slug": "return_policy",
+                                                    "title": "Return and Exchange Policy",
+                                                    "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wType": "PRODUCT_BRAND_INFO",
+                                            "wTitle": "Product Brand Info",
+                                            "wSubTitle": ""
+                                        },
+                                        {
+                                            "wType": "TOP_REVIEW",
+                                            "wTitle": "Customer Reviews",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "rating": null,
+                                                "reviewCount": null,
+                                                "helpfulReviewList": []
+                                            }
+                                        },
+                                        {
+                                            "wType": "PRODUCT_ATC",
+                                            "wTitle": "Add To Cart",
+                                            "wSubTitle": "",
+                                            "data": {
+                                                "showWishListButton": false,
+                                                "buttonText": "Add To Bag"
+                                            }
+                                        }
+                                    ],
+                                    "metadata": {
+                                        "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36C) Online  at Best Price",
+                                        "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+                                        "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36C),Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+                                        "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red (36C) Online",
+                                        "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+                                    }
+                                }
+                            ]
+                        },
+                        "child": {
+                            "type": "color",
+                            "values": [
+                                {
+                                    "sku": "ZIVA04698",
+                                    "actionUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-peach/p/188571",
+                                    "name": "Orange",
+                                    "color": "#ff7b00"
+                                }
+                            ]
+                        }
+                    },
+                    "isOutOfStock": false,
+                    "title": "Zivame",
+                    "subTitle": "Rosaline Double Layered Wirefree Super Support Bra - Red",
+                    "categoryName": "Zivame",
+                    "videoMediaSources": [],
+                    "productMediaList": [
+                        {
+                            "aspectRatio": 0.75,
+                            "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                            "position": "1"
+                        },
+                        {
+                            "aspectRatio": 0.75,
+                            "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.002.jpg?rnd=20200526195200",
+                            "position": "2"
+                        },
+                        {
+                            "aspectRatio": 0.75,
+                            "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.003.jpg?rnd=20200526195200",
+                            "position": "3"
+                        },
+                        {
+                            "aspectRatio": 0.75,
+                            "url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.004.jpg?rnd=20200526195200",
+                            "position": "4"
+                        }
+                    ],
+                    "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/zi1885core00red.001.jpg?rnd=20200526195200",
+                    "color": {
+                        "name": "Red",
+                        "colorCode": "#ff0026",
+                        "url": ""
+                    },
+                    "showWishListButton": false,
+                    "brandId": "4107",
+                    "brandActionUrl": "/designers/zivame/c/4107"
+                }
+            },
+            {
+                "wType": "PRODUCT_DESCRIPTION",
+                "wTitle": "Product Information",
+                "wSubTitle": "",
+                "dataList": [
+                    {
+                        "slug": "description",
+                        "title": "Description",
+                        "value": "<p><b> Product Color : </b>Red</p><ul><li> Non-padded, double layered cups for support and nipple coverage.</li><li> Wire-free for comfort and support.</li><li> 3/4th coverage for enhanced support and no spillage.</li><li> The bigger the bra size, the broader the back band.</li><li> Non padded moulded cups for smooth bust shape.</li><li> Slim-High Centre panel for support & no bounce.</li><li> Fabric: Polyester Cotton.</li><li> Do Not Dry Clean.</li><li> Do Not Iron.</li><li> Do Not Bleach.</li><li> Hand Wash Only.</li><li> Wash Dark Colours Separately.</li><li> Do Not Tumble Dry.</li></ul><p><b> Care Instructions: </b> Handwash</p>"
+                    },
+                    {
+                        "slug": "product_details_attributes",
+                        "title": "Product Details",
+                        "attributes": [
+                            {
+                                "key": "Material",
+                                "value": "Polyester"
+                            },
+                            {
+                                "key": "Padding",
+                                "value": "Non-Padded"
+                            },
+                            {
+                                "key": "Wiring",
+                                "value": "Wireless"
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "size_fit_attributes",
+                        "title": "Size & Fit",
+                        "attributes": [
+                            {
+                                "key": "Coverage",
+                                "value": "Medium Coverage"
+                            }
+                        ]
+                    },
+                    {
+                        "slug": "pack_contains",
+                        "title": "Pack Contains",
+                        "value": "1 Bra"
+                    },
+                    {
+                        "slug": "sold_by",
+                        "title": "Sold By",
+                        "value": "Mila Star Retail Private Limited"
+                    },
+                    {
+                        "slug": "country_of_origin",
+                        "title": "Country of Origin",
+                        "value": "India"
+                    },
+                    {
+                        "slug": "name_of_manufacturer",
+                        "title": "Name of Manufacturer/ Packer/ Importer",
+                        "value": "Milastar Retail Private Limited"
+                    },
+                    {
+                        "slug": "address_of_manufacturer",
+                        "title": "Address of Manufacturer/ Packer/ Importer",
+                        "value": "Milastar Retail Private Limited 2726, 4th Floor, Lakshminarayana Nivas, Off 80 Feet Road, Indiranagar, Bangalore - 560 038"
+                    },
+                    {
+                        "slug": "return_policy",
+                        "title": "Return and Exchange Policy",
+                        "value": "This product is eligible for returns and size replacements. Please initiate returns/replacements from the 'My Orders' section in the App within 7 days of delivery. Please ensure the product is in its original condition with all tags attached."
+                    }
+                ]
+            },
+            {
+                "wType": "PRODUCT_BRAND_INFO",
+                "wTitle": "Product Brand Info",
+                "wSubTitle": "",
+                "data": {
+                    "imageUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/Zivame.Logo.jpg",
+                    "aspectRatio": 0.75,
+                    "title": "Zivame",
+                    "description": "Started in 2011, Zivame offers a wide collection of lingerie, shapewear, swimwear, activewear and sportswear that are comfortable and stylish for women of all body types. Zivame features a wide collection of leggings, sports bras, tank tops and more."
+                }
+            },
+            {
+                "wType": "TOP_REVIEW",
+                "wTitle": "Customer Reviews",
+                "wSubTitle": "",
+                "data": {
+                    "rating": null,
+                    "reviewCount": null,
+                    "helpfulReviewList": []
+                }
+            },
+            {
+                "wType": "PRODUCT_ATC",
+                "wTitle": "Add To Cart",
+                "wSubTitle": "",
+                "data": {
+                    "showWishListButton": false,
+                    "buttonText": "Add To Bag"
+                }
+            }
+        ],
+        "metadata": {
+            "description": "Buy Zivame Rosaline Double Layered Wirefree Super Support Bra - Red From Zivame's T-Shirt",
+            "imgUrl": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/z/i/tr:h-400,w-300,cm-pad_resize/zi1885core00red.001.jpg?rnd=20200526195200",
+            "keywords": "Zivame Rosaline Double Layered Wirefree Super Support Bra - Red,Bra,T-Shirt,Non-Padded,Wireless,Everyday Lingerie",
+            "title": "Zivame Lingerie: Zivame Rosaline Double Layered Wirefree Super Support Bra - Red Online",
+            "productUrl": "https://www.nykaafashion.com/zivame-rosaline-double-layered-wirefree-super-support-bra-red/p/188558"
+        }
+    }
+}

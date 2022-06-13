@@ -1,0 +1,15 @@
+export const TERMS_CONDITIONS_HEADER_1: string = 'Terms & Conditions';
+export const TERMS_CONDITIONS_HEADER_2: string = 'Use of the Website';
+export const TERMS_CONDITIONS_HEADER_3: string = 'Registration';
+export const TERMS_CONDITIONS_HEADER_4: string = 'Use of Products';
+export const TERMS_CONDITIONS_CONTENT_1: string = 'The terms & conditions apply to the use of the website and by accessing this website or placing an order you agree to be bound by the terms and conditions set out below. These apply to the use of Nykaa Pro and are in addition to the Terms & Conditions of Nykaa.com. If you have any questions relating to these please contact us before placing your order either by e-mail at';
+export const TERMS_CONDITIONS_CONTENT_2: string = 'or call on:';
+export const USE_OF_WEBSITE_CONTENT_1: string = 'Access – On registration, you will be provided with an access to the Website in accordance with the Terms and Conditions and any orders placed by you must be placed strictly in accordance with these Terms and Conditions.';
+export const USE_OF_WEBSITE_CONTENT_2: string = '\n Access to few portions of this Site are only permitted for Nykaa Pro members through the use of a personalized ID that Nykaa Pro issues to each Nykaa Pro member and a password.';
+export const REGISTRATION_CONTENT_1: string = 'You warrant that: The Personal Information provided by you on registration is true, accurate and complete in all respects; and You will promptly notify us on any changes to your Personal Information by contacting our customer services team through email';
+export const REGISTRATION_CONTENT_2: string = 'or call on922-220-1010. In event of a failure to do so, he onus will be on the user for any error, and not of Nykaa Pro. You also agree not to impersonate any other person or entity or to use a false name or a name that you are not authorised to use.';
+export const REGISTRATION_CONTENT_3: string = 'reserve the right, without notice, to cancel or reduce the quantity of any order to be filled or products or services to be provided to you that we believe, in our sole discretion, may result in the violation of our Terms and Conditions.';
+export const USE_OF_PRODUCT_CONTENT: string = 'As a qualified professional you have full discretion to decide the usage or application of the products you purchase on Nykaa Pro. You should carefully read the individual terms and conditions in relation to the products and beauty services and consult a specialist before you use the same. In case any products or beauty services purchased / received / availed causes any unexpected result, NYKAA is not to be held liable for such consumer complaints.';
+export const BUTTON_TEXT: string = 'Register';
+export const CHECKBOX_LABEL: string = 'I have Read and Accept the';
+export const CHECKBOX_LABEL_2: string = 'Terms & Conditions';

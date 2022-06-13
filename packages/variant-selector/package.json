@@ -1,0 +1,43 @@
+{
+  "name": "@nykaa/variant-selector",
+  "description": "variant-selector",
+  "version": "0.1.12",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "peerDependencies": {
+    "@emotion/core": "10.0.27",
+    "@nykaa/ui-components": "^2.5.0",
+    "@nykaa/variant-selector-shared": "^0.1.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@emotion/core": "10.0.27",
+    "@nykaa/ui-components": "^2.10.3",
+    "@nykaa/variant-selector-shared": "^0.1.12",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "typescript": "3.9.5"
+  }
+}

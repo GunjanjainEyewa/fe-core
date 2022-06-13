@@ -1,0 +1,45 @@
+{
+  "name": "@nykaa/image-viewer",
+  "description": "Image viewer component",
+  "version": "0.5.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Piyush Arora <piyush.arora@nykaa.com> (https://github.com/piyush-nykaa)",
+  "engines": {
+    "node": ">=8.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "peerDependencies": {
+    "@emotion/styled": "10.0.27",
+    "@nykaa/ui-components": "^2.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-swipeable": "5.5.0"
+  },
+  "devDependencies": {
+    "@nykaa/ui-components": "^2.10.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-swipeable": "5.5.0",
+    "typescript": "3.9.5"
+  },
+  "dependencies": {
+    "@nykaa/image-viewer-shared": "^1.1.0"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

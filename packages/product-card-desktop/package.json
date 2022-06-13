@@ -1,0 +1,48 @@
+{
+  "name": "@nykaa/product-card-desktop",
+  "description": "product-card-desktop",
+  "version": "0.9.7",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "peerDependencies": {
+    "@nykaa/data-layer": "^0.1.7",
+    "@nykaa/lazy-load": "^0.1.9",
+    "@nykaa/product-card-shared": "0.6.0",
+    "@nykaa/ui-components": "^2.0.0",
+    "@nykaa/utils": "^0.7.6",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@nykaa/data-layer": "^0.1.30",
+    "@nykaa/lazy-load": "^0.1.33",
+    "@nykaa/product-card-shared": "^0.6.7",
+    "@nykaa/ui-components": "^2.10.3",
+    "@nykaa/utils": "^0.12.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "typescript": "3.9.5"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

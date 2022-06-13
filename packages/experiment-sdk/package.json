@@ -1,0 +1,49 @@
+{
+  "name": "@nykaa/experiment-sdk",
+  "description": "experiment-sdk",
+  "version": "0.1.12",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Hitesh Narwal <hitesh.narwal@nykaa.com> (https://github.com/hiteshnykaa)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "devDependencies": {
+    "@nykaa/utils": "^0.12.0",
+    "@types/blueimp-md5": "^2.18.0",
+    "@types/uuid": "^8.3.0",
+    "express": "^4.17.1",
+    "reselect": "^4.0.0",
+    "typescript": "3.9.5"
+  },
+  "dependencies": {
+    "blueimp-md5": "^2.18.0",
+    "uuid": "^8.3.2"
+  },
+  "peerDependencies": {
+    "@nykaa/utils": "^0.9.2",
+    "express": "^4.17.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-redux": "^7.1.0",
+    "reselect": "^4.0.0"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

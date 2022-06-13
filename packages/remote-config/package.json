@@ -1,0 +1,48 @@
+{
+  "name": "@nykaa/remote-config",
+  "description": "remote-config",
+  "version": "0.5.2",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "peerDependencies": {
+    "@nykaa/cache": "^0.0.0",
+    "@nykaa/experiment-sdk": "0.0.3",
+    "@nykaa/logger": "^0.1.1",
+    "@nykaa/prices-revealed": "^0.0.0",
+    "@nykaa/utils": "^0.5.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@nykaa/cache": "^0.1.2",
+    "@nykaa/experiment-sdk": "^0.1.12",
+    "@nykaa/logger": "^0.2.0",
+    "@nykaa/prices-revealed": "^0.1.2",
+    "@nykaa/utils": "^0.12.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "typescript": "3.7.2"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

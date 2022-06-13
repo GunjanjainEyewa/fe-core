@@ -1,0 +1,80 @@
+import { ColorTokensT } from './types';
+
+const colors: ColorTokensT = {
+  // white: '#ffffff',
+  // gray: '#657786',
+  pink100: '#FEB9D2',
+  pink200: '#FA8BB4',
+  pink300: '#F55D9C',
+  pink400: '#F02D84',
+  pink500: '#E80071',
+  pink600: '#D7006C',
+  pink700: '#BE0062',
+  pink800: '#A60057',
+  pink900: '#880048',
+
+  snow100: '#FFFFFF',
+  snow200: '#F9FAFA',
+  snow300: '#F3F4F5',
+  snow400: '#ECEEF0',
+  snow500: '#E6E9EB',
+  snow600: '#E0E3E6',
+  snow700: '#DADEE2',
+  snow800: '#D3D9DD',
+  snow900: '#CDD3D8',
+
+  blue50: '#EBF4FF',
+  blue200: '#6A9AFF',
+  blue500: '#006DFF',
+  blue900: '#23334E',
+
+  red50: '#FAEBEB',
+  red200: '#EC5E61',
+  red500: '#B60000',
+  red900: '#382935',
+
+  green50: '#EBF6F1',
+  green200: '#4CBA71',
+  green500: '#008945',
+  green900: '#1E3837',
+
+  orange50: '#FDF5EB',
+  orange200: '#E86B3B',
+  orange500: '#DE3800',
+  orange900: '#37302E',
+
+  black100: '#111314',
+  black200: '#16191B',
+  black300: '#1B1E21',
+  black400: '#212528',
+  black500: '#262B2F',
+  black600: '#2B3035',
+  black700: '#30353B',
+  black800: '#363B40',
+  black900: '#3A4047',
+
+  pebble100: '#7692AD',
+  pebble200: '#68829A',
+  pebble300: '#5D768E',
+  pebble400: '#4C647C',
+  pebble500: '#354A5F',
+  pebble600: '#2B3F53',
+  pebble700: '#243545',
+  pebble800: '#192837',
+  pebble900: '#001325',
+
+  grey900: '#657786',
+
+  salmon50: '#FFEFF1',
+  salmon100: '#FFD3D8',
+  salmon200: '#FFB9C1',
+  salmon300: '#FFA0AC',
+  salmon400: '#FF8A98',
+  salmon500: '#FD7685',
+  salmon600: '#E56975',
+  salmon700: '#CC5C66',
+  salmon800: '#B34F57',
+  salmon900: '#994348',
+};
+
+export default colors;

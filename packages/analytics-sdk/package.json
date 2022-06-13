@@ -1,0 +1,40 @@
+{
+  "name": "@nykaa/analytics-sdk",
+  "description": "analytics-sdk",
+  "version": "0.2.6",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Sudesh Poojari <sudesh.poojari@nykaa.com> (https://github.com/sudeshnykaa)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "peerDependencies": {
+    "@nykaa/logger": "^0.0.2",
+    "@nykaa/network": "^0.0.6",
+    "@nykaa/utils": "^0.10.6"
+  },
+  "devDependencies": {
+    "@nykaa/logger": "^0.2.0",
+    "@nykaa/network": "^0.0.20",
+    "@nykaa/utils": "^0.12.0",
+    "typescript": "3.9.5"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

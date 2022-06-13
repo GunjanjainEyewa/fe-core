@@ -1,0 +1,22 @@
+
+/* eslint-disable react/jsx-props-no-spreading */
+// DESIGN_SYSTEM_GENERATED_ICONS
+import React from 'react';
+
+import { Props } from './types';
+import Icon from './icons';
+
+
+function %%ICON_NAME%%(props: Props) {
+
+  return (
+    <Icon
+      %%SVG_VIEWBOX%%
+      {...props}
+    >
+      %%ICON_PATH%%
+    </Icon>
+  );
+}
+
+export default  %%ICON_NAME%%;

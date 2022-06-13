@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./",
+    "rootDir": "./src"
+  },
+  "typeRoots": [
+    "./src/styles/fonts.d.ts"
+  ]
+}

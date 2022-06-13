@@ -1,0 +1,36 @@
+{
+	"name": "@nykaa/user-portfolio",
+	"version": "0.5.8",
+	"main": "lib/index.js",
+	"author": "Chandani Khurana <chandani.khurana@nykaa.com> (https://github.com/chandani2411)",
+	"license": "MIT",
+	"engines": {
+		"node": ">=8.13.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Nykaa/fe-core.git"
+	},
+	"contributors": [],
+	"keywords": [],
+	"bugs": {
+		"url": "https://github.com/Nykaa/fe-core/issues"
+	},
+	"homepage": "https://github.com/Nykaa/fe-core#readme",
+	"description": "",
+	"peerDependencies": {
+		"@emotion/styled": "10.0.27",
+		"@nykaa/ui-components": "^2.5.1",
+		"react": "16.12.0",
+		"react-dom": "16.12.0",
+		"react-swipeable": "5.5.0"
+	},
+	"devDependencies": {
+		"@emotion/styled": "10.0.27",
+		"react": "16.12.0",
+		"react-dom": "16.12.0",
+		"react-swipeable": "5.5.0",
+		"typescript": "3.6.4"
+	},
+	"gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

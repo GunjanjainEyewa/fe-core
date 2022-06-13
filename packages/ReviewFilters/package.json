@@ -1,0 +1,32 @@
+{
+	"name": "@nykaa/review-filters",
+	"version": "0.3.31",
+	"main": "lib/index.js",
+	"author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
+	"license": "MIT",
+	"engines": {
+		"node": ">=8.13.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Nykaa/fe-core.git"
+	},
+	"contributors": [],
+	"keywords": [],
+	"bugs": {
+		"url": "https://github.com/Nykaa/fe-core/issues"
+	},
+	"homepage": "https://github.com/Nykaa/fe-core#readme",
+	"description": "",
+	"peerDependencies": {
+		"@nykaa/ui-components": "^2.5.1",
+		"react": "16.12.0"
+	},
+	"devDependencies": {
+		"typescript": "3.6.4"
+	},
+	"dependencies": {
+		"@emotion/styled": "^11.0.0"
+	},
+	"gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

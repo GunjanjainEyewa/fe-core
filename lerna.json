@@ -1,0 +1,25 @@
+{
+  "changelog": {
+    "cacheDir": ".changelog",
+    "labels": {
+      "tag: Spec Compliance :eyeglasses:": ":eyeglasses: Spec Compliance",
+      "tag: breaking change :boom:": ":boom: Breaking Change",
+      "tag: feat :rocket:": ":rocket: New Feature",
+      "tag: fix :bug:": ":bug: Bug Fix",
+      "tag: polish :nail_care:": ":nail_care: Polish",
+      "tag: docs :memo:": ":memo: Documentation",
+      "tag: internal :house:": ":house: Internal",
+      "tag: performance :running_woman:": ":running_woman: Performance"
+    }
+  },
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    },
+    "prepublish": "lerna run build"
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent"
+}

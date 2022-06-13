@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "esModuleInterop": true,
+    "target": "ES6",
+    "declaration": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "jsx": "react",
+    "lib": [
+      "esnext",
+      "DOM"
+    ],
+  },
+  "exclude": [
+    "**/*__tests__",
+    "packages/*/lib",
+    "**/*.story.tsx",
+    "**/*.test.tsx",
+    "packages/*/__story__",
+    "packages/*/src/__test__",
+  ]
+}

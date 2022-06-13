@@ -1,0 +1,56 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+    },
+    "ignorePatterns": [
+      "lib/",
+      "node_modules/",
+      "**/*.story.tsx",
+      "**/__tests__/*",
+      "**/*.test.tsx",
+      "**/*.d.ts"
+    ],
+    "extends": [
+      "airbnb-typescript"
+    ],
+    "globals": {
+      "Atomics": "readonly",
+      "SharedArrayBuffer": "readonly",
+      "__BROWSER__": "readonly",
+      "__SERVER__": "readonly",
+      "__PLATFORM__": "readonly"
+    },
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaFeatures": {
+          "jsx": true
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "rules": {
+      "jsx-a11y/no-noninteractive-element-to-interactive-role": 0,
+      "jsx-a11y/click-events-have-key-events": 0,
+      "jsx-a11y/no-static-element-interactions": 0,
+      "import/no-duplicates": 0,
+      "react/jsx-props-no-spreading": "off"
+    },
+    "settings":  {
+      "import/resolver": {
+        "node": {
+          "extensions": [".js", ".jsx", ".ts", ".tsx", ".d.ts"]
+        },
+        "eslint-import-resolver-lerna": {
+          "packages": "packages"
+        }
+      },
+      "react":  {
+        "version":  "detect"
+      }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "@nykaa/data-layer",
+  "description": "data-layer",
+  "version": "0.1.30",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo 'no test'",
+    "build": "npm run build-ts",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nykaa/fe-core.git"
+  },
+  "contributors": [],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Nykaa/fe-core/issues"
+  },
+  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "peerDependencies": {
+    "@nykaa/utils": "^0.6.0",
+    "redux": "^4.0.1",
+    "typescript": "3.9.4"
+  },
+  "devDependencies": {
+    "@nykaa/utils": "^0.12.0",
+    "redux": "^4.0.1",
+    "typescript": "3.9.4"
+  },
+  "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
+}

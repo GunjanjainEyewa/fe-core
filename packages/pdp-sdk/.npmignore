@@ -1,0 +1,10 @@
+src
+test
+tsconfig.json
+*.log
+
+node_modules
+dist
+.DS_Store
+.vscode
+__story__
