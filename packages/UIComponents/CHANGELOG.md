@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.10.2 (2022-06-13)
+
+
+
+## 3.10.1 (2022-06-13)
+
+**Note:** Version bump only for package @eyewa/ui-components
+
+
+
+
+
 ## [2.10.3](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/ui-components@2.10.2...@eyewa/ui-components@2.10.3) (2022-03-07)
 
 
