@@ -9,7 +9,7 @@ A `mono-repository` for React components.
 > Recommended way
 
 ```bash
-git clone git@github.com:Nykaa/fe-core.git
+git clone git@github.com:GunjanjainEyewa/fe-core.git
 ```
 
 
