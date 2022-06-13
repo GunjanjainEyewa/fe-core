@@ -1,7 +1,7 @@
 {
   "name": "@eyewa/prive",
   "description": "prive",
-  "version": "0.3.6",
+  "version": "0.4.6",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
