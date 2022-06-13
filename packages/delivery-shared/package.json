@@ -1,7 +1,7 @@
 {
   "name": "@eyewa/delivery-shared",
   "description": "delivery-shared",
-  "version": "0.0.43",
+  "version": "0.0.45",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
