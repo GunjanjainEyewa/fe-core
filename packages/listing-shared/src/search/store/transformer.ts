@@ -1,4 +1,4 @@
-import widgetTransformer from '@nykaa/deals-transformer';
+import widgetTransformer from '@eyewa/deals-transformer';
 import { transformListingProducts } from '../../transformer/product';
 import { transformListingFilters } from '../../transformer/filter';
 import { sanitizeQuery } from './helpers';

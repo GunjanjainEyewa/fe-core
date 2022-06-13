@@ -1,4 +1,4 @@
-import platformNames from '@nykaa/utils/platform/constants';
+import platformNames from '@eyewa/utils/platform/constants';
 import {
   pageTypes,
   pageNamePrefix,
@@ -8,11 +8,11 @@ import {
   PageSource,
   PLP_SUB_NAV_SUFFIX,
   siteSubNavigationPrefix,
-} from '@nykaa/data-layer/constants';
-import { getErrorString } from '@nykaa/data-layer/store/helpers';
-import { PageJourney } from '@nykaa/data-layer/store/action';
-import { getSubPaths } from '@nykaa/utils/urls';
-import { logger } from '@nykaa/logger';
+} from '@eyewa/data-layer/constants';
+import { getErrorString } from '@eyewa/data-layer/store/helpers';
+import { PageJourney } from '@eyewa/data-layer/store/action';
+import { getSubPaths } from '@eyewa/utils/urls';
+import { logger } from '@eyewa/logger';
 import {
   GetDataLayer,
   OfferListingRoot,

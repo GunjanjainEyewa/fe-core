@@ -1,11 +1,11 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import Price from '@nykaa/product-card-desktop/components/CardInfo/Price';
-import { ListingProduct, User } from '@nykaa/product-card-shared/types';
-import { CartParams } from '@nykaa/product-card-shared/types/addToCart';
-import { AddToWishlist, RemoveFromWishlist } from '@nykaa/product-card-shared/types/addToWishlist';
-import { NotifyMeParams } from '@nykaa/product-card-shared/types/notifyMe';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import Price from '@eyewa/product-card-desktop/components/CardInfo/Price';
+import { ListingProduct, User } from '@eyewa/product-card-shared/types';
+import { CartParams } from '@eyewa/product-card-shared/types/addToCart';
+import { AddToWishlist, RemoveFromWishlist } from '@eyewa/product-card-shared/types/addToWishlist';
+import { NotifyMeParams } from '@eyewa/product-card-shared/types/notifyMe';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import Action from './Action';
 import NotifyMe from './OutOfStock';
 

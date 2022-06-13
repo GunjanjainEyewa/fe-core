@@ -1,6 +1,6 @@
 import { Dispatch } from 'redux';
-import { statusCodes } from '@nykaa/utils/network/constants';
-import { logger } from '@nykaa/logger';
+import { statusCodes } from '@eyewa/utils/network/constants';
+import { logger } from '@eyewa/logger';
 import actionTypes from './actionTypes';
 import { getFile, getUserInfo, postUserInfo } from './service';
 import { AddressInfo, FileInfo, SetDocument } from '../types';

@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import CouponTile from '../CouponTile';
 import { goldColors, normalColors, platinumColors } from '../../constants/colorTokens';
 

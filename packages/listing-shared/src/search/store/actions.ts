@@ -1,12 +1,12 @@
 import { Dispatch } from 'redux';
-import appEventTypes from '@nykaa/app/store/actionTypes';
-import { defaultDataLayer } from '@nykaa/data-layer/constants';
-import { statusCodes } from '@nykaa/utils/network/constants';
-import { pushData } from '@nykaa/data-layer/utils';
-import { pageTypes } from '@nykaa/data-layer/constants';
-import logErrors from '@nykaa/logger/logErrors';
+import appEventTypes from '@eyewa/app/store/actionTypes';
+import { defaultDataLayer } from '@eyewa/data-layer/constants';
+import { statusCodes } from '@eyewa/utils/network/constants';
+import { pushData } from '@eyewa/data-layer/utils';
+import { pageTypes } from '@eyewa/data-layer/constants';
+import logErrors from '@eyewa/logger/logErrors';
 
-import { actionForSSRDataLayer } from '@nykaa/data-layer/store/action';
+import { actionForSSRDataLayer } from '@eyewa/data-layer/store/action';
 import { ActiveFilter } from '../../type/filter';
 import { createActiveFilterObjectFromURL } from '../../utils/filter';
 import { RedirectionData } from './types';

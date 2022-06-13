@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import FullScreen from '../../../Icons/FullScreenIcon';
 import PlayVideo from '../../../Icons/PlayVideoIcon';
 import { IMAGE_VIEW_TEXT, VIDEO_VIEW_TEXT } from '../../../constants';

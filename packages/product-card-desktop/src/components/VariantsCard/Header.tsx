@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { VariantHeaderProps } from '@nykaa/product-card-shared/types/variants';
+import { styled } from '@eyewa/ui-components';
+import { VariantHeaderProps } from '@eyewa/product-card-shared/types/variants';
 import { CrossIcon } from '../icons';
 
 const ShadeHeader = styled.div`

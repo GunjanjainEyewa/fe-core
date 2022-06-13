@@ -1,9 +1,9 @@
 import 'jsdom-global/register'; // for providing
 import React from 'react';
 import { mount } from 'enzyme';
-import ThemeProvider from '@nykaa/ui-components/styles/ThemeProvider';
-import { createLightTheme } from '@nykaa/ui-components/themes';
-import wrapWithTheme from '@nykaa/ui-components/themes/helpers/themeProvider';
+import ThemeProvider from '@eyewa/ui-components/styles/ThemeProvider';
+import { createLightTheme } from '@eyewa/ui-components/themes';
+import wrapWithTheme from '@eyewa/ui-components/themes/helpers/themeProvider';
 import UserInfo from '../../components/UserInfo';
 import ProSvg from '../../Icons/proSvg';
 

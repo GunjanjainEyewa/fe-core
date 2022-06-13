@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import InputBox from '../InputBox';
 import { sanitizeSocialLogin } from '../../utils';
 import { SocialLinks } from '../../types';

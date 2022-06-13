@@ -1,6 +1,6 @@
-import { logger } from '@nykaa/logger';
-import { ApiHelper } from '@nykaa/utils/network';
-import Cache from '@nykaa/cache';
+import { logger } from '@eyewa/logger';
+import { ApiHelper } from '@eyewa/utils/network';
+import Cache from '@eyewa/cache';
 
 import { DEFAULT_CONFIG, CACHE_KEY, GET_REMOTE_CONFIG_URL } from './constants';
 import { parseConfig } from './parser';

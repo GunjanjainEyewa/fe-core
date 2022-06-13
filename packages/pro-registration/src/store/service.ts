@@ -1,7 +1,7 @@
-import { logger } from '@nykaa/logger';
-import { getAPIHost } from '@nykaa/utils/network/urls';
-import { ApiHelper } from '@nykaa/utils/network';
-import { HttpMethods } from '@nykaa/utils/network/constants';
+import { logger } from '@eyewa/logger';
+import { getAPIHost } from '@eyewa/utils/network/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import { HttpMethods } from '@eyewa/utils/network/constants';
 import { setPayload, transformAddress, transformUserInfo } from './transformer';
 import {
   ERROR_IN_AUTO_ADDRESS_API,

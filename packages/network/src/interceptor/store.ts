@@ -1,7 +1,7 @@
 import { AxiosRequestConfig } from 'axios';
 
-import { STORE_KEY_IN_QUERY } from '@nykaa/utils/store/constants';
-import { appendQueryStringToUrl } from '@nykaa/utils/urls';
+import { STORE_KEY_IN_QUERY } from '@eyewa/utils/store/constants';
+import { appendQueryStringToUrl } from '@eyewa/utils/urls';
 import { HttpMethods } from '../constants';
 
 import { RequestConfig } from '..';

@@ -1,4 +1,4 @@
-import { PageJourney } from '@nykaa/data-layer/store/action';
+import { PageJourney } from '@eyewa/data-layer/store/action';
 import {
   ListingProduct, PageLocationType, PrimaryCategories,
 } from '.';

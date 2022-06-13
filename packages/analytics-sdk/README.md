@@ -3,13 +3,13 @@
 ### Installation
 
 ```
-npm install @nykaa/analytics-sdk
+npm install @eyewa/analytics-sdk
 ```
 
 ### Initialization
 
 ```
-import AnalyticsSDK from "@nykaa/analytics-sdk";
+import AnalyticsSDK from "@eyewa/analytics-sdk";
 
 
 const sdk = new AnalyticsSDK({

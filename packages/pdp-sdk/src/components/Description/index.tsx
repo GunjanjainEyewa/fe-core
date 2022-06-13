@@ -1,6 +1,6 @@
 // libs
 import React, { memo } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 // defs
 import { DescAttributesInfo } from '../../types/transformer';

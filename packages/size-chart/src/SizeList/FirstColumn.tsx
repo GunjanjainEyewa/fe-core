@@ -1,8 +1,8 @@
 import React from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import Radio from '@nykaa/size-chart-shared/components/RadioButton';
-import { OptionData, HeightOption } from '@nykaa/size-chart-shared/types';
+import styled from '@eyewa/ui-components/styles/styled';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import Radio from '@eyewa/size-chart-shared/components/RadioButton';
+import { OptionData, HeightOption } from '@eyewa/size-chart-shared/types';
 
 
 const LeftWrapper = styled.div`

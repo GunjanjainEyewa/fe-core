@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import AddToCart from '@nykaa/product-card-desktop/components/CardActions/AddToBag';
-import { ListingProduct } from '@nykaa/product-card-shared/types';
-import { CartParams } from '@nykaa/product-card-shared/types/addToCart';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import AddToCart from '@eyewa/product-card-desktop/components/CardActions/AddToBag';
+import { ListingProduct } from '@eyewa/product-card-shared/types';
+import { CartParams } from '@eyewa/product-card-shared/types/addToCart';
 
 
 const PRODUCT_ADDED = 'ADDED TO BAG';

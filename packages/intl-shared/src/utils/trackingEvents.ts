@@ -1,4 +1,4 @@
-import { pushEvent, pushData } from '@nykaa/data-layer/utils';
+import { pushEvent, pushData } from '@eyewa/data-layer/utils';
 import { DEFAULT_LANGUAGE } from '../constants';
 import {
   LANG_PREF_ACTION,

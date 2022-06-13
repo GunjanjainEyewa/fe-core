@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { PriceReveal } from '@nykaa/product-card-shared/types/cardInfo';
+import { styled } from '@eyewa/ui-components';
+import { PriceReveal } from '@eyewa/product-card-shared/types/cardInfo';
 
 
 const Container = styled.span`

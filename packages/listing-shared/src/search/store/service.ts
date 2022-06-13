@@ -1,8 +1,8 @@
-import { ApiHelper } from '@nykaa/utils/network';
-import { ROUTES, urls, getUrlPrefixed } from '@nykaa/utils/network/urls';
-import { statusMessages } from '@nykaa/utils/network/constants';
-import logErrors from '@nykaa/logger/logErrors';
-import { queryStringFromParams } from '@nykaa/utils/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import { ROUTES, urls, getUrlPrefixed } from '@eyewa/utils/network/urls';
+import { statusMessages } from '@eyewa/utils/network/constants';
+import logErrors from '@eyewa/logger/logErrors';
+import { queryStringFromParams } from '@eyewa/utils/urls';
 import { SEARCH_PROXY_PREFIX } from './constants';
 import { transformSearchListingData, transformPageData } from './transformer';
 import {

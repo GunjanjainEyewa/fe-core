@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import ImageSlider from './components/ImageSlider';
 import ProductImage from './components/ProductImage';
 import { ImagesProps } from './types';

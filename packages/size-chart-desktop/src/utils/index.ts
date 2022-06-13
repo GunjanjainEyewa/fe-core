@@ -1,11 +1,11 @@
-import { UnitProps } from '@nykaa/size-chart-shared/types';
+import { UnitProps } from '@eyewa/size-chart-shared/types';
 import {
   SIZE_CHART_OVERLAY,
   SIZE_CHART_SIDENAV,
   MIN_SIZE_CHART_WIDTH,
   HEADER_COLUMN_WIDTH,
   MAX_COLUMN_WIDTH,
-} from '@nykaa/size-chart-shared/constants';
+} from '@eyewa/size-chart-shared/constants';
 
 
 const getWidth = (columns: UnitProps[]) => {

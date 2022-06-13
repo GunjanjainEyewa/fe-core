@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import Attachment from '../../icons/attachment';
 import StyledIcon from '../Styled/Icon';
 import Add from '../../icons/add';

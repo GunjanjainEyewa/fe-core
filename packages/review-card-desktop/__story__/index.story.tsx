@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { action } from '@storybook/addon-actions';
 import { DEFAULT_VIEWPORT } from '@storybook/addon-viewport';
-import { ImageItem } from '@nykaa/review-card-shared/types';
+import { ImageItem } from '@eyewa/review-card-shared/types';
 import ReviewCard from '../src';
 
 

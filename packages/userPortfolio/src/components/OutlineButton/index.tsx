@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 // Replace with new token
 const SkipButton = styled.button`

@@ -1,8 +1,8 @@
 import React from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { transformedSizeData } from '@nykaa/size-chart-shared/utils';
-import { TransformedSizeProps, OptionData, UnitProps } from '@nykaa/size-chart-shared/types';
+import styled from '@eyewa/ui-components/styles/styled';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { transformedSizeData } from '@eyewa/size-chart-shared/utils';
+import { TransformedSizeProps, OptionData, UnitProps } from '@eyewa/size-chart-shared/types';
 import { getMinWidth, getRowHeight } from '../../utils';
 
 

@@ -1,19 +1,19 @@
 import 'jsdom-global/register'; // for providing
 import React from 'react';
 import { mount } from 'enzyme';
-import { createLightTheme } from '@nykaa/ui-components/themes';
-import { SIZE_CHART,TAP_TO_SELECT, SELECT_SHADE } from '@nykaa/variant-selector-shared/constant';
-import { SoldOut, FewLeft } from '@nykaa/variant-selector-shared';
+import { createLightTheme } from '@eyewa/ui-components/themes';
+import { SIZE_CHART,TAP_TO_SELECT, SELECT_SHADE } from '@eyewa/variant-selector-shared/constant';
+import { SoldOut, FewLeft } from '@eyewa/variant-selector-shared';
 import Sizes from '../Sizes';
 import Shades from '../Shades';
 import Header from '../components/Header';
 import SizeList from '../Sizes/SizeList';
 import ShadeList from '../Shades/ShadeList';
-import ThemeProvider from '@nykaa/ui-components/styles/ThemeProvider';
+import ThemeProvider from '@eyewa/ui-components/styles/ThemeProvider';
 import Size from '../Sizes/Size';
 import Shade from '../Shades/Shade'
 import { sizeVariant,currentVariantSize, shadeVariant,currentShadeVariant } from './mock';
-import { FEW_LEFT, SOLD_OUT } from '@nykaa/variant-selector-shared/src/constant';
+import { FEW_LEFT, SOLD_OUT } from '@eyewa/variant-selector-shared/src/constant';
 
 
 export default function wrapWithTheme(child: any, func: Function) {

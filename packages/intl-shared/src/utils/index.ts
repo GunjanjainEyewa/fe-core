@@ -1,4 +1,4 @@
-import { logger } from '@nykaa/logger';
+import { logger } from '@eyewa/logger';
 
 import {
   Template, QueryParamsObject, KeyStringObj, GetTranslationWithoutHook, DynamicStringConfigs,

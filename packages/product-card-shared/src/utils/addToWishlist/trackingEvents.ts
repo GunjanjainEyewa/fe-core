@@ -1,5 +1,5 @@
-import { pushEvent } from '@nykaa/data-layer/utils';
-import { events } from '@nykaa/data-layer/constants';
+import { pushEvent } from '@eyewa/data-layer/utils';
+import { events } from '@eyewa/data-layer/constants';
 import {
   RemoveWishlistTrackingData,
   RemoveWishlistDataLayer,

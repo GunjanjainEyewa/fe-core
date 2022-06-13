@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import AddToCartWrapper from '@nykaa/product-card-shared/components/AddToCart';
-import { CartRenderProps, CartProps } from '@nykaa/product-card-shared/types/addToCart';
-import { ButtonProps } from '@nykaa/product-card-shared/types';
+import { styled } from '@eyewa/ui-components';
+import AddToCartWrapper from '@eyewa/product-card-shared/components/AddToCart';
+import { CartRenderProps, CartProps } from '@eyewa/product-card-shared/types/addToCart';
+import { ButtonProps } from '@eyewa/product-card-shared/types';
 import { ProgressStrip } from '../../Animation';
 
 const Button = styled(ProgressStrip)`

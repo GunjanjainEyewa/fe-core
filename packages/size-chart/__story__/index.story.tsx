@@ -2,7 +2,7 @@ import * as React from 'react';
 import { action } from '@storybook/addon-actions';
 import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
 import SizeList from '../src/SizeList';
-import UnitSwitch from '@nykaa/size-chart-shared/components/UnitSwitch';
+import UnitSwitch from '@eyewa/size-chart-shared/components/UnitSwitch';
 import SizeChart from '../src';
 
 

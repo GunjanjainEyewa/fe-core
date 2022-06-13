@@ -1,5 +1,5 @@
 import axios, { AxiosRequestConfig } from 'axios';
-import { logger } from '@nykaa/logger';
+import { logger } from '@eyewa/logger';
 
 import { AdditionalRequestOptions, InterceptorFunction } from './types';
 

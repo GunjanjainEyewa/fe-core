@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import NotifyMeWrapper from '@nykaa/product-card-shared/components/NotifyMe';
-import { NOTIFY_ME_TEXT } from '@nykaa/product-card-shared/constant/notifyMe';
-import { NotifyMeProps, NotifyMeRenderProps } from '@nykaa/product-card-shared/types/notifyMe';
+import { styled } from '@eyewa/ui-components';
+import NotifyMeWrapper from '@eyewa/product-card-shared/components/NotifyMe';
+import { NOTIFY_ME_TEXT } from '@eyewa/product-card-shared/constant/notifyMe';
+import { NotifyMeProps, NotifyMeRenderProps } from '@eyewa/product-card-shared/types/notifyMe';
 import { CrossIcon } from '../../icons';
 import EmailForm from './EmailForm';
 

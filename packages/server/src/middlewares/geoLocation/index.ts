@@ -4,8 +4,8 @@ import {
   COUNTRY_CODE,
   CONTINENT_CODE,
   EU_CONTINENT_CODE,
-} from '@nykaa/utils/network/constants';
-import customHeaders from '@nykaa/utils/network/constants/headers';
+} from '@eyewa/utils/network/constants';
+import customHeaders from '@eyewa/utils/network/constants/headers';
 
 import { COOKIE_MAX_AGE, euCountryCodeCollection } from '../../constants/geoLocation';
 

@@ -1,7 +1,7 @@
-import { ApiHelper } from '@nykaa/utils/network';
-import { ROUTES, getUrl } from '@nykaa/utils/network/urls';
-import logErrors from '@nykaa/logger/logErrors';
-import { queryStringFromParams } from '@nykaa/utils/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import { ROUTES, getUrl } from '@eyewa/utils/network/urls';
+import logErrors from '@eyewa/logger/logErrors';
+import { queryStringFromParams } from '@eyewa/utils/urls';
 import { transformRequest } from './helpers';
 import { FetchCategoryListingParams } from './types';
 import { transformProductListingData, transformPriceList, transformPlpWidget } from './transformer';

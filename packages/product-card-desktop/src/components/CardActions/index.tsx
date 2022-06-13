@@ -1,8 +1,8 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { PRODUCT_ADDED } from '@nykaa/product-card-shared/constant/addToCart';
-import { ButtonProps } from '@nykaa/product-card-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { PRODUCT_ADDED } from '@eyewa/product-card-shared/constant/addToCart';
+import { ButtonProps } from '@eyewa/product-card-shared/types';
 import { CardActionProps, ActionStyleProps } from '../../types';
 import { getAction } from '../../utils';
 import Wishlist from './AddToWishlist';

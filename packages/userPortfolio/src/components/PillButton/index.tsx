@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 const Button = styled.button`
   border: 1px solid rgba(0, 19, 37, 0.16);

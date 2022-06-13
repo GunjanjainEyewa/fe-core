@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { Variant } from '@nykaa/variant-selector-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { Variant } from '@eyewa/variant-selector-shared/types';
 import Size from './Size';
 
 interface SizeListingProps {

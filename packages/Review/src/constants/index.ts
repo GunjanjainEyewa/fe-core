@@ -1,4 +1,4 @@
-import { DefaultTranslations } from '@nykaa/review-card-shared/types';
+import { DefaultTranslations } from '@eyewa/review-card-shared/types';
 
 export const defaultTranslations: DefaultTranslations = {
   YOU: 'you',

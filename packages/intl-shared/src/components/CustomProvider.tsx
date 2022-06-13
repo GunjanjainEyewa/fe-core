@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Helmet from 'react-helmet';
 import { useLocation } from 'react-router-dom';
 
-import { deleteCookie } from '@nykaa/utils/cookies';
+import { deleteCookie } from '@eyewa/utils/cookies';
 import Provider from './Provider';
 import { CustomProviderProps as Props, RequiredKeys } from '../types';
 import {

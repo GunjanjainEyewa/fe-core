@@ -1,4 +1,4 @@
-import { NewTags } from '@nykaa/product-card-shared/types/tags';
+import { NewTags } from '@eyewa/product-card-shared/types/tags';
 
 export interface ImageItem {
   url: string;

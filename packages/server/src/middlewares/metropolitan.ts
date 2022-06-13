@@ -2,12 +2,12 @@ import md5 from 'md5';
 import { Request, Response } from 'express';
 import url from 'url';
 
-import { statusCodes } from '@nykaa/utils/network/constants';
-import { appendQueryStringToUrl } from '@nykaa/utils/urls';
-import { ApiHelper } from '@nykaa/utils/network';
+import { statusCodes } from '@eyewa/utils/network/constants';
+import { appendQueryStringToUrl } from '@eyewa/utils/urls';
+import { ApiHelper } from '@eyewa/utils/network';
 
-import { standardErrorMessages } from '@nykaa/utils/logging/constants';
-import { logger } from '@nykaa/logger';
+import { standardErrorMessages } from '@eyewa/utils/logging/constants';
+import { logger } from '@eyewa/logger';
 
 
 const TARGET_URL = 'http://support.metropolisindia.com/mhl/DigitalMarketingWeb.php';

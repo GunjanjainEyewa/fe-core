@@ -2,17 +2,17 @@ import {
   ListingProduct,
   PageLocationType,
   User,
-} from '@nykaa/product-card-shared/types';
-import { CartParams } from '@nykaa/product-card-shared/types/addToCart';
-import { NotifyMeParams } from '@nykaa/product-card-shared/types/notifyMe';
-import { VariantsState } from '@nykaa/product-card-shared/types/variants';
-import { StyleProps, PriceReveal } from '@nykaa/product-card-shared/types/cardInfo';
+} from '@eyewa/product-card-shared/types';
+import { CartParams } from '@eyewa/product-card-shared/types/addToCart';
+import { NotifyMeParams } from '@eyewa/product-card-shared/types/notifyMe';
+import { VariantsState } from '@eyewa/product-card-shared/types/variants';
+import { StyleProps, PriceReveal } from '@eyewa/product-card-shared/types/cardInfo';
 import {
   AddToWishlist,
   RemoveFromWishlist,
-} from '@nykaa/product-card-shared/types/addToWishlist';
-import { Theme } from '@nykaa/ui-components/themes/types';
-import { PageJourney } from '@nykaa/data-layer/store/action';
+} from '@eyewa/product-card-shared/types/addToWishlist';
+import { Theme } from '@eyewa/ui-components/themes/types';
+import { PageJourney } from '@eyewa/data-layer/store/action';
 
 export interface CardActionProps {
   product: ListingProduct;

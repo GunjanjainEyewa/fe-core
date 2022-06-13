@@ -1,8 +1,8 @@
 // libs
 import React, { memo, useState, useEffect } from 'react';
 import { keyframes } from '@emotion/core';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 // components
 import WarningIcon from '../icons/WarningIcon';

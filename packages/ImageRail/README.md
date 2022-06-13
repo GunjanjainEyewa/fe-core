@@ -8,15 +8,15 @@ Image Rail is used to show a scrollable(horizontal) list of images with click Ha
 
 ### Yarn
 
-    yarn add @nykaa/image-rail
+    yarn add @eyewa/image-rail
 
 ### npm
 
-    npm install -S @nykaa/image-rail
+    npm install -S @eyewa/image-rail
 
 ## Example Usage
 ```javascript
-import ImageRail from '@nykaa/image-rail';
+import ImageRail from '@eyewa/image-rail';
   ...
   ...
   <ImageRail

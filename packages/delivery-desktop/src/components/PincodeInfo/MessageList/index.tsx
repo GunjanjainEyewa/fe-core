@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import CrossIcon from '@nykaa/delivery-shared/Icons/CrossIcon';
-import { createMessageList } from '@nykaa/delivery-shared/utils';
+import { styled } from '@eyewa/ui-components';
+import CrossIcon from '@eyewa/delivery-shared/Icons/CrossIcon';
+import { createMessageList } from '@eyewa/delivery-shared/utils';
 import DeliveryMessage from './Message';
 
 

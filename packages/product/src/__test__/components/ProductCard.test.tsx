@@ -4,7 +4,7 @@ import React from 'react';
 import { shallow } from 'enzyme';
 import ProductCard from '../..';
 import Offer from '../../Offer';
-import wrapWithTheme from '@nykaa/ui-components/themes/helpers/themeProvider';
+import wrapWithTheme from '@eyewa/ui-components/themes/helpers/themeProvider';
 
 
 let imageUrl = 'https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/7/773602042951_2.jpg';

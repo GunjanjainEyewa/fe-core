@@ -3,9 +3,9 @@ import {
   SiteNavigation,
   siteSubNavigationPrefix,
   PageSource,
-} from '@nykaa/data-layer/constants';
-import { getErrorString } from '@nykaa/data-layer/store/helpers';
-import { PageJourney } from '@nykaa/data-layer/store/action';
+} from '@eyewa/data-layer/constants';
+import { getErrorString } from '@eyewa/data-layer/store/helpers';
+import { PageJourney } from '@eyewa/data-layer/store/action';
 import {
   MULTIPLE_WHITE_SPACES,
   SEARCH_QUERY_WHITELIST,

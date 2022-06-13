@@ -1,7 +1,7 @@
 import React from 'react';
-import { TagsComponent } from '@nykaa/product-card-shared';
-import { styled } from '@nykaa/ui-components';
-import { NewTags, TagObject } from '@nykaa/product-card-shared/types/tags';
+import { TagsComponent } from '@eyewa/product-card-shared';
+import { styled } from '@eyewa/ui-components';
+import { NewTags, TagObject } from '@eyewa/product-card-shared/types/tags';
 import Tag from './index';
 
 

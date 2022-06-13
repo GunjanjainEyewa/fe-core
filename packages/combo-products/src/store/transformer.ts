@@ -1,4 +1,4 @@
-import { getRoundedDiscount } from '@nykaa/utils/pricing';
+import { getRoundedDiscount } from '@eyewa/utils/pricing';
 import { Product } from '../types';
 
 

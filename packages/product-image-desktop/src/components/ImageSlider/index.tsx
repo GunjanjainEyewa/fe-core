@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import styled from '@nykaa/ui-components/styles/styled';
+import styled from '@eyewa/ui-components/styles/styled';
 
 
 import ArrowButtons from './ArrowButtons';

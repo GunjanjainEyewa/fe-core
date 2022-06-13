@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../src/components/Header';
-import { styled } from '@nykaa/ui-components'
+import { styled } from '@eyewa/ui-components'
 import {INITIAL_VIEWPORTS} from '@storybook/addon-viewport'
 
 export default {

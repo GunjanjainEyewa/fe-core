@@ -1,7 +1,7 @@
 
-import { pushEvent } from '@nykaa/data-layer/utils';
-import { events } from '@nykaa/data-layer/constants';
-import { PageJourney } from '@nykaa/data-layer/store/action';
+import { pushEvent } from '@eyewa/data-layer/utils';
+import { events } from '@eyewa/data-layer/constants';
+import { PageJourney } from '@eyewa/data-layer/store/action';
 import {
   CartDataLayerData, CartEvent, CartTrackingData, TrackingFuncData,
 } from '../../types/addToCart';

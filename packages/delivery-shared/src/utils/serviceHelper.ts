@@ -1,4 +1,4 @@
-import { setCookie } from '@nykaa/utils/cookies';
+import { setCookie } from '@eyewa/utils/cookies';
 import { PIN_CODE_FOR_DELIVERY, PINCODE_COOKIE_EXPIRY } from '../constants';
 import { DeliveryInfo } from '../types';
 import checkDelivery from '../store/service';

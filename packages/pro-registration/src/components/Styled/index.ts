@@ -1,5 +1,5 @@
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { styled } from '@nykaa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
 
 const SectionSummary: any = styled.div`
   ${({ theme }) => theme.typography.titleLarge};

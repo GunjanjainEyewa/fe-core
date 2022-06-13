@@ -1,4 +1,4 @@
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 export default styled.section`
   padding: ${({ theme }) => theme.spacing.spacing80};

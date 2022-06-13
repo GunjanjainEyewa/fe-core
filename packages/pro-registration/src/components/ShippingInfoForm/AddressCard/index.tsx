@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import Checkbox from '@nykaa/ui-components/Checkbox';
+import { styled } from '@eyewa/ui-components';
+import Checkbox from '@eyewa/ui-components/Checkbox';
 import { AddressInfo } from '../../../types';
 
 export interface SavedAddressProps extends AddressInfo {

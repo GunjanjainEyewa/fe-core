@@ -1,9 +1,9 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import LikeSvg from '@nykaa/review-card-shared/Icons/likeSvg';
-import { LikeProps } from '@nykaa/review-card-shared/types';
-import { LIKE_ICON_ID } from '@nykaa/review-card-shared/constants';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import LikeSvg from '@eyewa/review-card-shared/Icons/likeSvg';
+import { LikeProps } from '@eyewa/review-card-shared/types';
+import { LIKE_ICON_ID } from '@eyewa/review-card-shared/constants';
 import LikeText from './LikeText';
 
 

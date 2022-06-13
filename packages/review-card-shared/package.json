@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/review-card-shared",
+  "name": "@eyewa/review-card-shared",
   "description": "review-card-shared",
   "version": "0.4.0",
   "main": "index.js",
@@ -17,25 +17,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/image-rail": "0.2.1",
-    "@nykaa/lazy-load": "^0.1.9",
-    "@nykaa/ui-components": "^2.0.0",
+    "@eyewa/image-rail": "0.2.1",
+    "@eyewa/lazy-load": "^0.1.9",
+    "@eyewa/ui-components": "^2.0.0",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "@nykaa/image-rail": "^0.3.37",
-    "@nykaa/lazy-load": "^0.1.33",
-    "@nykaa/ui-components": "^2.10.3",
+    "@eyewa/image-rail": "^0.3.37",
+    "@eyewa/lazy-load": "^0.1.33",
+    "@eyewa/ui-components": "^2.10.3",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "typescript": "3.9.5"

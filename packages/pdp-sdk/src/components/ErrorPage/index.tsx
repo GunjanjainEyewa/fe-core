@@ -1,9 +1,9 @@
 // libs
 import React, { memo } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 // components
-import Button from '@nykaa/ui-components/Button';
+import Button from '@eyewa/ui-components/Button';
 import BrokenLink from './icons/BrokenLink';
 
 type Kind = '4XX' | '5XX';

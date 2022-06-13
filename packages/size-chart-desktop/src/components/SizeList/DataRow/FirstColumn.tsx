@@ -1,8 +1,8 @@
 import React from 'react';
-import Radio from '@nykaa/size-chart-shared/components/RadioButton';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { OptionData } from '@nykaa/size-chart-shared/types';
+import Radio from '@eyewa/size-chart-shared/components/RadioButton';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { OptionData } from '@eyewa/size-chart-shared/types';
 
 
 interface FirstColumnProps {

@@ -1,12 +1,12 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import UserInfo from '@nykaa/review-card-shared/components/UserInfo';
-import RatingInfo from '@nykaa/review-card-shared/components/RatingInfo';
-import Description from '@nykaa/review-card-shared/components/Description';
-import DateInfo from '@nykaa/review-card-shared/components/DateInfo';
-import Like from '@nykaa/review-card-desktop/components/LikeInfo';
-import ImageList from '@nykaa/review-card-shared/components/Images';
-import ProductTile from '@nykaa/product-card-desktop';
+import { styled } from '@eyewa/ui-components';
+import UserInfo from '@eyewa/review-card-shared/components/UserInfo';
+import RatingInfo from '@eyewa/review-card-shared/components/RatingInfo';
+import Description from '@eyewa/review-card-shared/components/Description';
+import DateInfo from '@eyewa/review-card-shared/components/DateInfo';
+import Like from '@eyewa/review-card-desktop/components/LikeInfo';
+import ImageList from '@eyewa/review-card-shared/components/Images';
+import ProductTile from '@eyewa/product-card-desktop';
 import { ReviewProps } from '../../types/Review';
 
 

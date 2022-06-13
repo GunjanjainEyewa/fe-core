@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { Theme } from '@nykaa/ui-components/themes/types';
+import { Theme } from '@eyewa/ui-components/themes/types';
 
 export const ThemeContext = React.createContext<Theme | null>(null);
 

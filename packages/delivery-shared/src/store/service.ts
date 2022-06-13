@@ -1,8 +1,8 @@
-import logErrors from '@nykaa/logger/logErrors';
-import { ApiHelper } from '@nykaa/utils/network';
-import { ROUTES, getUrl } from '@nykaa/utils/network/urls';
-import { HttpMethods } from '@nykaa/utils/network/constants';
-import { queryStringFromParams } from '@nykaa/utils/urls';
+import logErrors from '@eyewa/logger/logErrors';
+import { ApiHelper } from '@eyewa/utils/network';
+import { ROUTES, getUrl } from '@eyewa/utils/network/urls';
+import { HttpMethods } from '@eyewa/utils/network/constants';
+import { queryStringFromParams } from '@eyewa/utils/urls';
 import { ERROR_MESSAGE, DELIVERY_NOT_FOUND } from '../constants';
 import { DeliveryInfo } from '../types';
 

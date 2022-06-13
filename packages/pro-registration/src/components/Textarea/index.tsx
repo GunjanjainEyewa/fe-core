@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { FloatingContainer, FloatingLabel } from '../Styled/Floats';
 import validationCheck from '../../utils/validation';
 import { ErrorMessage } from '../Styled';

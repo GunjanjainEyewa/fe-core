@@ -1,8 +1,8 @@
 import React, { memo, useState } from 'react';
-import Button from '@nykaa/ui-components/Button';
+import Button from '@eyewa/ui-components/Button';
 import { useDispatch } from 'react-redux';
-import { styled } from '@nykaa/ui-components';
-import { logger } from '@nykaa/logger';
+import { styled } from '@eyewa/ui-components';
+import { logger } from '@eyewa/logger';
 
 import { callAddToCart } from '../../store/services';
 import { CTAInfo } from '../../types/transformer';

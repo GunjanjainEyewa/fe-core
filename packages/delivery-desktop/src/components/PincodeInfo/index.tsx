@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import setDeliveryDetails from '@nykaa/delivery-shared/utils/serviceHelper';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { DeliveryInfo, PinCodeInfoProps } from '@nykaa/delivery-shared/types';
+import setDeliveryDetails from '@eyewa/delivery-shared/utils/serviceHelper';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { DeliveryInfo, PinCodeInfoProps } from '@eyewa/delivery-shared/types';
 import DeliveryMessageList from './MessageList';
 import Header from './Header';
 import MoreInfo from './MoreInfo';

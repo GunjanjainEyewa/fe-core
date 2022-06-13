@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/home",
+  "name": "@eyewa/home",
   "description": "home",
   "version": "0.1.47",
   "main": "index.js",
@@ -17,31 +17,31 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/app": "0.0.0",
-    "@nykaa/data-layer": "0.0.0",
-    "@nykaa/deals-transformer": "^0.11.0",
-    "@nykaa/logger": "^0.1.1",
-    "@nykaa/remote-config": "^0.1.0",
-    "@nykaa/utils": "^0.6.0",
+    "@eyewa/app": "0.0.0",
+    "@eyewa/data-layer": "0.0.0",
+    "@eyewa/deals-transformer": "^0.11.0",
+    "@eyewa/logger": "^0.1.1",
+    "@eyewa/remote-config": "^0.1.0",
+    "@eyewa/utils": "^0.6.0",
     "redux": "^4.0.1",
     "typescript": "3.9.4"
   },
   "devDependencies": {
-    "@nykaa/app": "^0.2.25",
-    "@nykaa/data-layer": "^0.1.30",
-    "@nykaa/deals-transformer": "^0.11.0",
-    "@nykaa/logger": "^0.2.0",
-    "@nykaa/remote-config": "^0.5.2",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/app": "^0.2.25",
+    "@eyewa/data-layer": "^0.1.30",
+    "@eyewa/deals-transformer": "^0.11.0",
+    "@eyewa/logger": "^0.2.0",
+    "@eyewa/remote-config": "^0.5.2",
+    "@eyewa/utils": "^0.12.0",
     "redux": "^4.0.1",
     "typescript": "3.9.4"
   },

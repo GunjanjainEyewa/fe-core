@@ -1,5 +1,5 @@
 // utils
-import checkForNykaaUser from '@nykaa/utils/user';
+import checkForNykaaUser from '@eyewa/utils/user';
 
 // helpers
 import {

@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import md5 from 'blueimp-md5';
 
 // helpers
-import { setCookie, getCookie } from '@nykaa/utils/cookies';
+import { setCookie, getCookie } from '@eyewa/utils/cookies';
 
 // constants
 import {

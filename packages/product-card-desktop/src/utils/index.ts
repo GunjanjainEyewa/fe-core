@@ -1,5 +1,5 @@
-import { VariantsState } from '@nykaa/product-card-shared/types/variants';
-import { isConfigurable } from '@nykaa/product-card-shared/utils/variants';
+import { VariantsState } from '@eyewa/product-card-shared/types/variants';
+import { isConfigurable } from '@eyewa/product-card-shared/utils/variants';
 
 export const getAction = (
   onlyAddToBag: boolean,

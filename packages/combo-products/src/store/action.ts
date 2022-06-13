@@ -1,5 +1,5 @@
-import { logger } from '@nykaa/logger';
-import { statusCodes } from '@nykaa/utils/network/constants';
+import { logger } from '@eyewa/logger';
+import { statusCodes } from '@eyewa/utils/network/constants';
 import { ERROR_IN_FETCHING_COMBO_PRODUCT_API } from '../constants';
 import getComboProduct from './service';
 

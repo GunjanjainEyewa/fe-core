@@ -1,5 +1,5 @@
-import { ApiHelper } from '@nykaa/utils/network';
-import logErrors from '@nykaa/logger/logErrors';
+import { ApiHelper } from '@eyewa/utils/network';
+import logErrors from '@eyewa/logger/logErrors';
 import {
   ADD_TO_WISHLIST_API,
   ADD_CUSTOM_ERROR_MSG,

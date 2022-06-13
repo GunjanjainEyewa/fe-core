@@ -1,12 +1,12 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { transformedSizeData } from '@nykaa/size-chart-shared/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { transformedSizeData } from '@eyewa/size-chart-shared/utils';
 import {
   OptionData,
   UnitProps,
   SizeData,
-} from '@nykaa/size-chart-shared/types';
+} from '@eyewa/size-chart-shared/types';
 import FirstColumn from './FirstColumn';
 import DummyRows from './DummyRows';
 

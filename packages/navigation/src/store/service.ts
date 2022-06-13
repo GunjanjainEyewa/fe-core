@@ -1,7 +1,7 @@
-import { getUrl, ROUTES } from '@nykaa/utils/network/urls';
-import { appendQueryStringToUrl } from '@nykaa/utils/urls';
-import { ApiHelper } from '@nykaa/utils/network';
-import { logger } from '@nykaa/logger';
+import { getUrl, ROUTES } from '@eyewa/utils/network/urls';
+import { appendQueryStringToUrl } from '@eyewa/utils/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import { logger } from '@eyewa/logger';
 import { transformNavigation } from './transformer';
 
 

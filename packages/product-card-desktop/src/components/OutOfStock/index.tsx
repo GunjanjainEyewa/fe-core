@@ -1,8 +1,8 @@
 import React from 'react';
-import { getOfferTrackingData } from '@nykaa/product-card-shared/utils';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { OutOfStockProps } from '@nykaa/product-card-shared/types/notifyMe';
+import { getOfferTrackingData } from '@eyewa/product-card-shared/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { OutOfStockProps } from '@eyewa/product-card-shared/types/notifyMe';
 import NotifyMe from './NotifyMe';
 
 

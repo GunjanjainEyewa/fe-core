@@ -1,4 +1,4 @@
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 const SubTitle: any = styled.div`
   ${({ theme }) => theme.typography.titleXSmall};

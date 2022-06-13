@@ -1,6 +1,6 @@
 import React from 'react';
 import { DEFAULT_VIEWPORT } from '@storybook/addon-viewport';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { action } from '@storybook/addon-actions';
 import ArrowIcon from '../src/Icons/Arrow';
 import CrossIcon from '../src/Icons/CloseIcon';

@@ -1,4 +1,4 @@
-import { Theme as ThemeType } from '@nykaa/ui-components/themes/types';
+import { Theme as ThemeType } from '@eyewa/ui-components/themes/types';
 
 export interface Option {
   productId: string;

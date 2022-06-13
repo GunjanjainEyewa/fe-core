@@ -1,9 +1,9 @@
 import React, { RefObject } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { keyframes, css } from '@emotion/core';
-import { TAP_TO_SELECT, SIZE_CHART, SIZE_ERROR_MSG } from '@nykaa/variant-selector-shared/constant';
-import { Variant } from '@nykaa/variant-selector-shared/types';
-import { Error } from '@nykaa/variant-selector-shared';
+import { TAP_TO_SELECT, SIZE_CHART, SIZE_ERROR_MSG } from '@eyewa/variant-selector-shared/constant';
+import { Variant } from '@eyewa/variant-selector-shared/types';
+import { Error } from '@eyewa/variant-selector-shared';
 import Header from '../components/Header';
 import SizeList from './SizeList';
 

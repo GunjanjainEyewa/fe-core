@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
-import { OptionData, UnitProps } from '@nykaa/size-chart-shared/types';
-import UnitSwitch from '@nykaa/size-chart-shared/components/UnitSwitch';
-import { SIZE_CHART_LIST } from '@nykaa/size-chart-shared/constants';
+import styled from '@eyewa/ui-components/styles/styled';
+import { OptionData, UnitProps } from '@eyewa/size-chart-shared/types';
+import UnitSwitch from '@eyewa/size-chart-shared/components/UnitSwitch';
+import { SIZE_CHART_LIST } from '@eyewa/size-chart-shared/constants';
 import SizeList from './SizeList';
 
 

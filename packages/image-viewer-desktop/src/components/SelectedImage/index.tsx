@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import CrossIcon from '@nykaa/image-viewer-shared/Icons/CloseIcon';
-import ArrowIcon from '@nykaa/image-viewer-shared/Icons/Arrow';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import CrossIcon from '@eyewa/image-viewer-shared/Icons/CloseIcon';
+import ArrowIcon from '@eyewa/image-viewer-shared/Icons/Arrow';
 import { closeImageViewerPopup } from '../../utils';
 
 

@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import LocationIcon from '@nykaa/delivery-shared/Icons/LocationIcon';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { PIN_CODE_FOR_DELIVERY } from '@nykaa/delivery-shared/constants';
-import { SelectedCountry, DefaultMessages } from '@nykaa/delivery-shared/types';
-import { getCookie } from '@nykaa/utils/cookies';
+import LocationIcon from '@eyewa/delivery-shared/Icons/LocationIcon';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { PIN_CODE_FOR_DELIVERY } from '@eyewa/delivery-shared/constants';
+import { SelectedCountry, DefaultMessages } from '@eyewa/delivery-shared/types';
+import { getCookie } from '@eyewa/utils/cookies';
 import PinCodeForm from './components/PincodeForm';
 import PinCodeInfo from './components/PincodeInfo';
 

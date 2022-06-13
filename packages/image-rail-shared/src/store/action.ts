@@ -1,6 +1,6 @@
 import { Dispatch } from 'redux';
 
-import { statusCodes } from '@nykaa/utils/network/constants';
+import { statusCodes } from '@eyewa/utils/network/constants';
 import ReviewImagesEvents from './actionTypes';
 import getReviewImages from './service';
 import { FetchReviewParams } from '../types';

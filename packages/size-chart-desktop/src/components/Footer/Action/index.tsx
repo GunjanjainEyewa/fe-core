@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { ListingProduct, User } from '@nykaa/product-card-shared/types';
-import { CartParams } from '@nykaa/product-card-shared/types/addToCart';
-import { AddToWishlist, RemoveFromWishlist } from '@nykaa/product-card-shared/types/addToWishlist';
+import { styled } from '@eyewa/ui-components';
+import { ListingProduct, User } from '@eyewa/product-card-shared/types';
+import { CartParams } from '@eyewa/product-card-shared/types/addToCart';
+import { AddToWishlist, RemoveFromWishlist } from '@eyewa/product-card-shared/types/addToWishlist';
 import AddToCartButton from './AddToBag';
 import WishlistIcon from './Wishlist';
 

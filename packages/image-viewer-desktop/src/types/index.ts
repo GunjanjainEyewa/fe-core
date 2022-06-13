@@ -1,5 +1,5 @@
-import { PageLocationType, User } from '@nykaa/product-card-shared/types';
-import { CartParams } from '@nykaa/product-card-shared/types/addToCart';
+import { PageLocationType, User } from '@eyewa/product-card-shared/types';
+import { CartParams } from '@eyewa/product-card-shared/types/addToCart';
 import { ReviewDataProps, Review } from './Review';
 import { ListingProduct } from './Product';
 

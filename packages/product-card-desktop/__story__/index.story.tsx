@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
-import { variantTypes } from '@nykaa/product-card-shared/constant/variants';
+import { variantTypes } from '@eyewa/product-card-shared/constant/variants';
 import ProductCard from '../src';
 import {
   cartPromise,

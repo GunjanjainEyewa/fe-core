@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/network",
+  "name": "@eyewa/network",
   "description": "network",
   "version": "0.0.20",
   "main": "index.js",
@@ -17,21 +17,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/logger": "^0.0.1",
-    "@nykaa/utils": "^0.9.1"
+    "@eyewa/logger": "^0.0.1",
+    "@eyewa/utils": "^0.9.1"
   },
   "devDependencies": {
-    "@nykaa/logger": "^0.2.0",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/logger": "^0.2.0",
+    "@eyewa/utils": "^0.12.0",
     "typescript": "3.9.5"
   },
   "dependencies": {

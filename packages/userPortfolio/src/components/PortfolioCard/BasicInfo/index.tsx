@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { UserInfoProps } from '../../../types/CheckboxWidget';
 import getDisplayValues from '../../../helpers';
 

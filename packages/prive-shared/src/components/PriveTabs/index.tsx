@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import { Tabs, Tab } from '@nykaa/ui-components/Tabs';
+import { Tabs, Tab } from '@eyewa/ui-components/Tabs';
 import NormalCrown from '../../Icons/NormalCrown';
 import NormalCoin from '../../Icons/NormalCoin';
 import GoldCrown from '../../Icons/GoldCrown';

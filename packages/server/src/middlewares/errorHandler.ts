@@ -1,8 +1,8 @@
 import path from 'path';
 import { Response, Request, NextFunction } from 'express';
-import { logger } from '@nykaa/logger';
+import { logger } from '@eyewa/logger';
 
-import { statusCodes } from '@nykaa/utils/network/constants';
+import { statusCodes } from '@eyewa/utils/network/constants';
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const errorHandler = (err: Error, _req: Request, res: Response, _next: NextFunction) => {

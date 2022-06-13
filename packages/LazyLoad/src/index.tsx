@@ -1,5 +1,5 @@
 import React, { ReactChild, useState, ReactNode } from 'react';
-import useIntersectionCallback from '@nykaa/utils/IObserver/useIntersectCallback';
+import useIntersectionCallback from '@eyewa/utils/IObserver/useIntersectCallback';
 
 
 interface Props {

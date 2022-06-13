@@ -1,4 +1,4 @@
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 const StyledProIcon: any = styled.i<{ size: number; margin?: boolean; pointer?: boolean}>`
   margin-right: ${(props) => (!props.margin ? (props.theme.spacing.spacing0) : (props.theme.spacing.spacing20))};

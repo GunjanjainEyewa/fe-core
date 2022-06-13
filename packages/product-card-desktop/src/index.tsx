@@ -1,11 +1,11 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { getListProductUrl } from '@nykaa/utils/urls';
-import { isShade } from '@nykaa/product-card-shared/utils/variants';
-import { Variant } from '@nykaa/product-card-shared/types/variants';
-import { pushEvent } from '@nykaa/data-layer';
-import { NewTags } from '@nykaa/product-card-shared/types/tags';
-import { getOfferTrackingData } from '@nykaa/product-card-shared/utils';
+import { styled } from '@eyewa/ui-components';
+import { getListProductUrl } from '@eyewa/utils/urls';
+import { isShade } from '@eyewa/product-card-shared/utils/variants';
+import { Variant } from '@eyewa/product-card-shared/types/variants';
+import { pushEvent } from '@eyewa/data-layer';
+import { NewTags } from '@eyewa/product-card-shared/types/tags';
+import { getOfferTrackingData } from '@eyewa/product-card-shared/utils';
 import CardDetail from './components/CardInfo';
 import OutOfStock from './components/OutOfStock';
 import CardAction from './components/CardActions';

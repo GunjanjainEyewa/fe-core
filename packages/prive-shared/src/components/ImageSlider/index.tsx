@@ -1,6 +1,6 @@
 import React, { FC, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import ImageSliderContent from './ImageSliderContent';
 import { benefitsSliderConfig } from '../../constants';
 

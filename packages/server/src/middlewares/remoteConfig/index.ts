@@ -1,6 +1,6 @@
 import { Response, Request, NextFunction } from 'express';
 
-import { getRemoteConfigGivenCache } from '@nykaa/remote-config';
+import { getRemoteConfigGivenCache } from '@eyewa/remote-config';
 import { REMOTE_CONFIG_KEY_IN_LOCALS } from '../../constants';
 
 

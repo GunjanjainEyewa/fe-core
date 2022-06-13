@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { NewTags, TagComponent as TagNameProps } from '@nykaa/product-card-shared/types/tags';
+import { styled } from '@eyewa/ui-components';
+import { NewTags, TagComponent as TagNameProps } from '@eyewa/product-card-shared/types/tags';
 import { TagObject } from '../types';
 import { NEW_TAG_CLASS, OLD_TAG_CLASS } from '../constants';
 import { generateId } from '../helper';

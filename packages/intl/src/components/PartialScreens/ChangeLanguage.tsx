@@ -1,20 +1,20 @@
 import React, { useState, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { updatePathname } from '@nykaa/intl-shared';
+import { styled } from '@eyewa/ui-components';
+import { updatePathname } from '@eyewa/intl-shared';
 import { useDispatch } from 'react-redux';
-import { setCookie } from '@nykaa/utils/cookies';
-import { DEFAULT_TRANSLATE, LN_EXPERIMENT } from '@nykaa/intl-shared/constants';
-import { RequiredKeys } from '@nykaa/intl-shared/types';
-import LanguagePreference from '@nykaa/intl-shared/components/LangPreference';
-import { actionOnLangPref } from '@nykaa/intl-shared/utils/trackingEvents';
-import { CLOSED } from '@nykaa/intl-shared/constants/trackingEvents';
-import { removeURLParameter as removeQuery } from '@nykaa/intl-shared/utils';
+import { setCookie } from '@eyewa/utils/cookies';
+import { DEFAULT_TRANSLATE, LN_EXPERIMENT } from '@eyewa/intl-shared/constants';
+import { RequiredKeys } from '@eyewa/intl-shared/types';
+import LanguagePreference from '@eyewa/intl-shared/components/LangPreference';
+import { actionOnLangPref } from '@eyewa/intl-shared/utils/trackingEvents';
+import { CLOSED } from '@eyewa/intl-shared/constants/trackingEvents';
+import { removeURLParameter as removeQuery } from '@eyewa/intl-shared/utils';
 import {
   LANGUAGE_COOKIE,
   HAS_SEEN_LANG_PREF,
-} from '@nykaa/intl-shared/constants/cookies';
-import { appendQueryStringToUrl } from '@nykaa/utils/urls';
-import { toggleLanguageModal } from '@nykaa/intl-shared/store/action';
+} from '@eyewa/intl-shared/constants/cookies';
+import { appendQueryStringToUrl } from '@eyewa/utils/urls';
+import { toggleLanguageModal } from '@eyewa/intl-shared/store/action';
 import Title from './Title';
 import View from './View';
 import {

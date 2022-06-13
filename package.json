@@ -1,6 +1,6 @@
 {
-  "name": "@nykaa/fe-core",
-  "version": "0.0.4",
+  "name": "@eyewa/fe-core",
+  "version": "0.0.6",
   "files": [
     "package.json",
     "dist",
@@ -24,11 +24,9 @@
     "publish": "npm run lint && npm run clean:lib && npm run clean:git && npm run build && lerna publish --message='chore: creating changelogs'",
     "build:story": "build-storybook -s ./.storybook/assets -o ./deploy",
     "serve:story": "npx http-server ./deploy",
-    "access": "npm access grant read-only @nykaa:core-web-read",
     "plop": "plop",
     "icon:create": "node ./packages/UIComponents/src/Icons/build.js"
   },
-  "author": "Sunit Jindal <sunit.jindal@nykaa.com> (https://github.com/sunitJindal)",
   "license": "MIT",
   "engines": {
     "node": ">=8.13.0"
@@ -55,10 +53,10 @@
     "@types/react-helmet": "^5.0.8",
     "@types/react-image-magnify": "2.7.0",
     "@types/react-lazyload": "^2.6.0",
+    "@types/react-loadable-visibility": "^3.0.0",
     "@types/react-redux": "^7.0.1",
     "@types/react-router": "^5.1.15",
     "@types/react-router-dom": "^5.1.7",
-    "@types/react-loadable-visibility": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^2.7.0",
     "@typescript-eslint/parser": "^2.11.0",
     "awesome-typescript-loader": "^5.2.1",
@@ -100,14 +98,14 @@
   "peerDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git@github.com:GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "description": "",
   "lint-staged": {
     "*.{js,ts,tsx}": [
@@ -121,7 +119,7 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.1.1",
     "@types/express": "^4.17.9",

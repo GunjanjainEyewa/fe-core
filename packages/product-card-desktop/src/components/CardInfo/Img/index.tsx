@@ -1,7 +1,7 @@
 import React from 'react';
-import LazyLoad from '@nykaa/lazy-load';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import LazyLoad from '@eyewa/lazy-load';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import Image from './image';
 
 

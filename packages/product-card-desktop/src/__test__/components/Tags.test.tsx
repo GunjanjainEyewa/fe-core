@@ -2,7 +2,7 @@ import 'jsdom-global/register'; // for providing
 
 import React from 'react';
 import { mount, shallow } from 'enzyme';
-import wrapWithTheme from '@nykaa/ui-components/themes/helpers/themeProvider';
+import wrapWithTheme from '@eyewa/ui-components/themes/helpers/themeProvider';
 import Tag from '../../components/CardInfo/Tags/TagName';
 
 const MockNewTags = [

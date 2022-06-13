@@ -1,4 +1,4 @@
-import randomizeChildren from '@nykaa/deals-utils/randomize';
+import randomizeChildren from '@eyewa/deals-utils/randomize';
 
 import widgetTypes from './constants/widgetTypes';
 import {

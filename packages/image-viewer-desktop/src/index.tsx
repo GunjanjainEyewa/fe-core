@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { LIKE_ICON_ID } from '@nykaa/review-card-shared/constants';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { LIKE_ICON_ID } from '@eyewa/review-card-shared/constants';
 import SelectedImage from './components/SelectedImage';
 import ReviewCard from './components/ReviewCard';
 import { ImageDataProps, ImageViewerProps } from './types';

@@ -1,6 +1,6 @@
-import Cache from '@nykaa/cache';
-import { ApiHelper } from '@nykaa/utils/network';
-import { logger } from '@nykaa/logger';
+import Cache from '@eyewa/cache';
+import { ApiHelper } from '@eyewa/utils/network';
+import { logger } from '@eyewa/logger';
 import langData from '../../constants/lang.data.json';
 
 import {

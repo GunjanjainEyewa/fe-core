@@ -1,8 +1,8 @@
 import React from 'react';
-import NotifyMeWrapper from '@nykaa/product-card-shared/components/NotifyMe';
-import { styled } from '@nykaa/ui-components';
-import { NotifyMeProps, NotifyMeRenderProps } from '@nykaa/product-card-shared/types/notifyMe';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import NotifyMeWrapper from '@eyewa/product-card-shared/components/NotifyMe';
+import { styled } from '@eyewa/ui-components';
+import { NotifyMeProps, NotifyMeRenderProps } from '@eyewa/product-card-shared/types/notifyMe';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import EmailForm from './Form';
 
 

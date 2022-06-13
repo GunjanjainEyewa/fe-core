@@ -1,8 +1,8 @@
-import { getUrl, ROUTES } from '@nykaa/utils/network/urls';
-import { ApiHelper } from '@nykaa/utils/network';
-import logErrors from '@nykaa/logger/logErrors';
-import platformNames from '@nykaa/utils/platform/constants';
-import { standardErrorMessages } from '@nykaa/utils/logging/constants';
+import { getUrl, ROUTES } from '@eyewa/utils/network/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import logErrors from '@eyewa/logger/logErrors';
+import platformNames from '@eyewa/utils/platform/constants';
+import { standardErrorMessages } from '@eyewa/utils/logging/constants';
 import { ADD_TO_CART_REQUEST_PATH, CUSTOM_ERROR_MSG_ADD_TO_CART } from './constants';
 import { transformAddToCart } from './transformers';
 import { CartParams } from '../../types/addToCart';

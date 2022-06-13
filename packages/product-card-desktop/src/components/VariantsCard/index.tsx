@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { VariantCardProps } from '@nykaa/product-card-shared/types/variants';
+import { VariantCardProps } from '@eyewa/product-card-shared/types/variants';
 import View from './View';
 import { getVariants } from '../../utils';
 

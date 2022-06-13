@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { ThemeContext } from './context';
 import { FilterProps, ThemeProps } from '../types';
 

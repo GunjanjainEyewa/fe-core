@@ -1,8 +1,8 @@
 import * as React from 'react';
 
-import { styled } from '@nykaa/ui-components';
-import { ImageReviewProps } from '@nykaa/image-viewer-shared/types';
-import { DEFAULT_VERIFIED_BUYER } from '@nykaa/image-viewer-shared/constants';
+import { styled } from '@eyewa/ui-components';
+import { ImageReviewProps } from '@eyewa/image-viewer-shared/types';
+import { DEFAULT_VERIFIED_BUYER } from '@eyewa/image-viewer-shared/constants';
 import RatingInfo from '../Rating';
 import Description from '../Description';
 import User from '../User';

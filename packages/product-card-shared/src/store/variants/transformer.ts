@@ -1,4 +1,4 @@
-import { getRoundedDiscount } from '@nykaa/utils/pricing';
+import { getRoundedDiscount } from '@eyewa/utils/pricing';
 import { ADD_TO_BAG_TEXT } from '../../constant/addToCart';
 import { MediaItem, Variant } from '../../types/variants';
 

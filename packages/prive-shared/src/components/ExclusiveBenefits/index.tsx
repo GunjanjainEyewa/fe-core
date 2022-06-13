@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import Button, { KIND, SHAPE, SIZE } from '@nykaa/ui-components/Button';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import Button, { KIND, SHAPE, SIZE } from '@eyewa/ui-components/Button';
 import BenefitsCard from '../BenfitsCard';
 import ArrowIcon from '../../Icons/ArrowIcon';
 import SilverIcon1 from '../../Icons/SilverRewardMultiplierIcon';

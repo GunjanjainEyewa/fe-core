@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { getAllVariantLabel } from '@nykaa/product-card-shared/utils/variants';
-import { VariantActionProps } from '@nykaa/product-card-shared/types/variants';
+import { styled } from '@eyewa/ui-components';
+import { getAllVariantLabel } from '@eyewa/product-card-shared/utils/variants';
+import { VariantActionProps } from '@eyewa/product-card-shared/types/variants';
 
 const LabelWrapper = styled.button` 
   ${({ theme }) => theme.typography.buttonLarge};

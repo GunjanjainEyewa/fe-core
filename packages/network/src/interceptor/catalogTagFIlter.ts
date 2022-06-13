@@ -1,6 +1,6 @@
 import { AxiosRequestConfig } from 'axios';
 
-import { appendQueryStringToUrl } from '@nykaa/utils/urls';
+import { appendQueryStringToUrl } from '@eyewa/utils/urls';
 
 
 export const catalogTagFilter = (requestConfig: AxiosRequestConfig) => {

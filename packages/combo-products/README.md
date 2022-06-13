@@ -6,16 +6,16 @@ Combo Product is used to show combo-product list for a particular Product.
 
 ### Yarn
 
-    yarn add @nykaa/combo-products
+    yarn add @eyewa/combo-products
 
 ### npm
 
-    npm install -S @nykaa/combo-products
+    npm install -S @eyewa/combo-products
 
 ## Example Usage
 ```javascript
 
-import ComboList from '@nykaa/combo-products/layout';
+import ComboList from '@eyewa/combo-products/layout';
   ...
   ...
 

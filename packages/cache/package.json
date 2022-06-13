@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/cache",
+  "name": "@eyewa/cache",
   "description": "cache",
   "version": "0.1.2",
   "main": "index.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
     "node-cache": "5.1.0"
   },

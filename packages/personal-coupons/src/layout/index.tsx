@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { pushEvent } from '@nykaa/data-layer/utils';
+import { styled } from '@eyewa/ui-components';
+import { pushEvent } from '@eyewa/data-layer/utils';
 import TileView from '../components/CouponTile';
 import { Coupon } from '../types';
 

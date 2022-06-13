@@ -1,5 +1,5 @@
 
-import platformNames from '@nykaa/utils/platform/constants';
+import platformNames from '@eyewa/utils/platform/constants';
 
 export const SEO_METADATA: any = {
   [platformNames.NYKAA]: {

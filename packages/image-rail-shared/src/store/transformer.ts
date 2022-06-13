@@ -1,4 +1,4 @@
-import { scaleImage } from '@nykaa/utils/image';
+import { scaleImage } from '@eyewa/utils/image';
 import { ReviewImagesProps, ImagesDataProps, ReviewImagesInfoProps } from '../types';
 import { NO_DATA_FOUND_IN_API, API_DATA_NOT_AN_OBJECT } from '../constants';
 

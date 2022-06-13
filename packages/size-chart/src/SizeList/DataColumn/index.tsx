@@ -1,7 +1,7 @@
 import React from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
-import { updateSizeColumns } from '@nykaa/size-chart-shared/utils';
-import { OptionData, UnitProps } from '@nykaa/size-chart-shared/types';
+import styled from '@eyewa/ui-components/styles/styled';
+import { updateSizeColumns } from '@eyewa/size-chart-shared/utils';
+import { OptionData, UnitProps } from '@eyewa/size-chart-shared/types';
 import { getMinWidth } from '../../utils';
 import SizeList from './Data';
 import Header from './Header';

@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import CheckIcon from '@nykaa/delivery-shared/Icons/CheckIcon';
+import { styled } from '@eyewa/ui-components';
+import CheckIcon from '@eyewa/delivery-shared/Icons/CheckIcon';
 
 
 interface DeliveryMessageProps {

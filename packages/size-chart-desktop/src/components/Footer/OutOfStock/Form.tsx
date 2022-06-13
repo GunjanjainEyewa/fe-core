@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { EmailFormProps, StyleProps } from '@nykaa/product-card-shared/types/notifyMe';
-import { ProgressStrip } from '@nykaa/product-card-desktop/components/Animation';
-import BellIcon from '@nykaa/size-chart-shared/Icons/Bell';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { EmailFormProps, StyleProps } from '@eyewa/product-card-shared/types/notifyMe';
+import { ProgressStrip } from '@eyewa/product-card-desktop/components/Animation';
+import BellIcon from '@eyewa/size-chart-shared/Icons/Bell';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 
 const Wrapper = styled.div`

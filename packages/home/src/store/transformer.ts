@@ -1,4 +1,4 @@
-import widgetTransformer from '@nykaa/deals-transformer';
+import widgetTransformer from '@eyewa/deals-transformer';
 import { Inventory } from './types';
 
 

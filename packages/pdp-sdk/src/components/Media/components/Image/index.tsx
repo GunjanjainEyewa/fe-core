@@ -1,8 +1,8 @@
 import React, { memo } from 'react';
-import useIntersectionCallback from '@nykaa/utils/IObserver/useIntersectCallback';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { scaleImage } from '@nykaa/utils/image';
+import useIntersectionCallback from '@eyewa/utils/IObserver/useIntersectCallback';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { scaleImage } from '@eyewa/utils/image';
 import { ImageMedia } from '../../../../types/transformer';
 
 const Img = styled.img`

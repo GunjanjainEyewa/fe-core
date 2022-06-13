@@ -1,8 +1,8 @@
-import { ApiHelper } from '@nykaa/utils/network';
-import { logger } from '@nykaa/logger';
+import { ApiHelper } from '@eyewa/utils/network';
+import { logger } from '@eyewa/logger';
 
-import { queryStringFromParams } from '@nykaa/utils/urls';
-import { ROUTES, getUrl } from '@nykaa/utils/network/urls';
+import { queryStringFromParams } from '@eyewa/utils/urls';
+import { ROUTES, getUrl } from '@eyewa/utils/network/urls';
 import { mandatoryRequestParams } from './constants';
 import {
   transformRewardDetails, transformLoyaltyDetails,

@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import ProductCarousel from '../src';
 
 

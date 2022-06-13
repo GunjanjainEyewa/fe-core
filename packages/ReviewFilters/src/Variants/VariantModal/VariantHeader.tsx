@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import Close from './CloseIcon';
 import { useThemeContext } from '../context';
 import { Option, ThemeProps, VariantHeaderProps } from '../../types';

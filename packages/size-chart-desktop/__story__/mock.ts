@@ -1,4 +1,4 @@
-import { variantTypes } from '@nykaa/product-card-shared/constant/variants';
+import { variantTypes } from '@eyewa/product-card-shared/constant/variants';
 
 export const imageUrl = 'https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/7/773602042951_2.jpg';
 export const productId = '4321';

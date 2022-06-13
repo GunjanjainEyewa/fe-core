@@ -1,6 +1,6 @@
 import axios, { Method } from 'axios';
 
-import { logger } from '@nykaa/logger';
+import { logger } from '@eyewa/logger';
 import { defaultRequestOptions } from './constants';
 import { AdditionalRequestOptions, InterceptorFunction } from './types';
 

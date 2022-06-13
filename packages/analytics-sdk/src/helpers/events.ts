@@ -1,6 +1,6 @@
 // libs
-import network from '@nykaa/network';
-import { logger } from '@nykaa/logger';
+import network from '@eyewa/network';
+import { logger } from '@eyewa/logger';
 
 // constants
 import {

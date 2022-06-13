@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import Button, { KIND, SHAPE, SIZE } from '@nykaa/ui-components/Button';
+import { styled } from '@eyewa/ui-components';
+import Button, { KIND, SHAPE, SIZE } from '@eyewa/ui-components/Button';
 import {
   ALREADY_REGISTERED,
   APPLICATION_SUBMITTED,

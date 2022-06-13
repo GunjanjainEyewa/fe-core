@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/nykaa-intl",
+  "name": "@eyewa/nykaa-intl",
   "description": "nykaa-intl",
   "version": "0.8.43",
   "main": "index.js",
@@ -17,19 +17,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/data-layer": "^0.1.5",
-    "@nykaa/intl-shared": "^0.0.0",
-    "@nykaa/ui-components": "^2.0.0",
-    "@nykaa/utils": "^0.7.6",
+    "@eyewa/data-layer": "^0.1.5",
+    "@eyewa/intl-shared": "^0.0.0",
+    "@eyewa/ui-components": "^2.0.0",
+    "@eyewa/utils": "^0.7.6",
     "react": "16.12.0",
     "react-dom": "16.9.10",
     "react-helmet": "5.2.0",
@@ -38,10 +38,10 @@
     "redux": "^4.0.1"
   },
   "devDependencies": {
-    "@nykaa/data-layer": "^0.1.30",
-    "@nykaa/intl-shared": "^0.8.32",
-    "@nykaa/ui-components": "^2.10.3",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/data-layer": "^0.1.30",
+    "@eyewa/intl-shared": "^0.8.32",
+    "@eyewa/ui-components": "^2.10.3",
+    "@eyewa/utils": "^0.12.0",
     "react-helmet": "5.2.0",
     "react-router-dom": "5.2.0",
     "typescript": "3.9.5"

@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { NOT_ANSWERED_VALUE } from '../../constants';
 import getDisplayValues from '../../helpers';
 import { OptionData } from '../../types';

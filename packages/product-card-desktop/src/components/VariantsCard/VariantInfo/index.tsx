@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { VariantInfoProps } from '@nykaa/product-card-shared/types/variants';
+import { styled } from '@eyewa/ui-components';
+import { VariantInfoProps } from '@eyewa/product-card-shared/types/variants';
 import CardPrice from '../../CardInfo/Price';
 
 

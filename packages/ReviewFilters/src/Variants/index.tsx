@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { ThemeContext } from './context';
 import ArrowIcon from './ArrowIcon';
 import { VariantProps, ThemeProps } from '../types';

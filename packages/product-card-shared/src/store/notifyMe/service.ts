@@ -1,5 +1,5 @@
-import { ApiHelper } from '@nykaa/utils/network';
-import logErrors from '@nykaa/logger/logErrors';
+import { ApiHelper } from '@eyewa/utils/network';
+import logErrors from '@eyewa/logger/logErrors';
 import { NOTIFY_ME_API_ERROR, NOTIFY_ME_URL } from './constants';
 import { NotifyMeParams } from '../../types/notifyMe';
 

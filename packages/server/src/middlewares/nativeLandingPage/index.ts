@@ -1,6 +1,6 @@
 /* eslint-disable consistent-return */
 import { Request, Response, NextFunction } from 'express';
-import { ROUTES, urls } from '@nykaa/utils/network/urls';
+import { ROUTES, urls } from '@eyewa/utils/network/urls';
 import checkValidHost from '../../utils';
 import {
   NATIVE_PAGE, WHITELISTED_DOMAINS, NATIVE_PAGE_TYPE,

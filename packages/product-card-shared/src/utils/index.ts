@@ -1,4 +1,4 @@
-import { PageSource } from '@nykaa/data-layer/constants';
+import { PageSource } from '@eyewa/data-layer/constants';
 import { PageSourceProps } from '../types';
 import {
   FEATURED,

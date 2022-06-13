@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 // defs
 import { BrandInfo } from '../../types/transformer';

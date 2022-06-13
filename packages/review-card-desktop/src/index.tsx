@@ -1,13 +1,13 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import UserInfo from '@nykaa/review-card-shared/components/UserInfo';
-import RatingInfo from '@nykaa/review-card-shared/components/RatingInfo';
-import DateInfo from '@nykaa/review-card-shared/components/DateInfo';
-import Description from '@nykaa/review-card-shared/components/Description';
-import ImageList from '@nykaa/review-card-shared/components/Images';
-import { ReviewProps } from '@nykaa/review-card-shared/types';
-import { USER_INFO_CLASS } from '@nykaa/review-card-shared/constants';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import UserInfo from '@eyewa/review-card-shared/components/UserInfo';
+import RatingInfo from '@eyewa/review-card-shared/components/RatingInfo';
+import DateInfo from '@eyewa/review-card-shared/components/DateInfo';
+import Description from '@eyewa/review-card-shared/components/Description';
+import ImageList from '@eyewa/review-card-shared/components/Images';
+import { ReviewProps } from '@eyewa/review-card-shared/types';
+import { USER_INFO_CLASS } from '@eyewa/review-card-shared/constants';
 import Like from './components/LikeInfo';
 
 

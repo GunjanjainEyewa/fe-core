@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { UserProps } from '@nykaa/image-viewer-shared/types';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { UserProps } from '@eyewa/image-viewer-shared/types';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import VerifiedSvg from './verifiedSvg';
 import ProSvg from './proSvg';
 

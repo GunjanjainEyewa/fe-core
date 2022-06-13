@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { TierProps } from '../../../types';
 import CheckIcon from '../../../Icons/CheckIcon';
 import getMarkerPos from '../../../utils';

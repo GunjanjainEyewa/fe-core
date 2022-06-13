@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { FONT_NORMAL } from '@nykaa/product-card-shared/constant/cardInfo';
-import { getFontData } from '@nykaa/product-card-shared/utils/cardInfo';
-import { Props, StyleProps } from '@nykaa/product-card-shared/types/cardInfo';
+import { styled } from '@eyewa/ui-components';
+import { FONT_NORMAL } from '@eyewa/product-card-shared/constant/cardInfo';
+import { getFontData } from '@eyewa/product-card-shared/utils/cardInfo';
+import { Props, StyleProps } from '@eyewa/product-card-shared/types/cardInfo';
 
 const PriceInfo = styled.div<Props>`
   line-height: 20px;

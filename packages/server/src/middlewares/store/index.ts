@@ -1,11 +1,11 @@
 import { Response, Request, NextFunction } from 'express';
-import { RemoteConfig } from '@nykaa/remote-config/types';
+import { RemoteConfig } from '@eyewa/remote-config/types';
 import {
   STORE_KEY,
   STORE_COOKIE,
   STORE_KEY_IN_QUERY,
   storeCookieMaxAge,
-} from '@nykaa/utils/store/constants';
+} from '@eyewa/utils/store/constants';
 
 import { REMOTE_CONFIG_KEY_IN_LOCALS } from '../../constants';
 

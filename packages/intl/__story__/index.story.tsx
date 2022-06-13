@@ -4,9 +4,9 @@ import { createStore, combineReducers } from 'redux';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
 
-import Store from '@nykaa/intl-shared/store/reducer';
-import { CustomProvider } from '@nykaa/intl-shared';
-import Strings from '@nykaa/intl-shared/constants/lang.data.json';
+import Store from '@eyewa/intl-shared/store/reducer';
+import { CustomProvider } from '@eyewa/intl-shared';
+import Strings from '@eyewa/intl-shared/constants/lang.data.json';
 import MultilingualModal from '../src/components/PartialScreens';
 
 

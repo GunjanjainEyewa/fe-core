@@ -10,15 +10,15 @@ Image grid is used to show a grid of images with click Handlers. Image grid uses
 
 ### Yarn
 
-    yarn add @nykaa/image-grid
+    yarn add @eyewa/image-grid
 
 ### npm
 
-    npm install -S @nykaa/image-grid
+    npm install -S @eyewa/image-grid
 
 ## Example Usage
 ```javascript
-import ImageGrid from '@nykaa/image-grid';
+import ImageGrid from '@eyewa/image-grid';
   ...
   ...
   <ImageGrid

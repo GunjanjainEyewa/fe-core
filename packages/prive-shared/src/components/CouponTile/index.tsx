@@ -1,7 +1,7 @@
 import React, { FC, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import Toast, { VARIANT } from '@nykaa/ui-components/Toast';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import Toast, { VARIANT } from '@eyewa/ui-components/Toast';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import TicketContainer from './TicketContainer';
 
 const Wrapper = styled.div<{tierBased: boolean}>`

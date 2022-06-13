@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Swipeable } from 'react-swipeable';
 
-import { styled } from '@nykaa/ui-components';
-import { ImageReviewProps, Product } from '@nykaa/image-viewer-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { ImageReviewProps, Product } from '@eyewa/image-viewer-shared/types';
 import ImagePreview from './components/ImagePreview';
 
 export interface ImageViewerProps {

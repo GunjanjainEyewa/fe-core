@@ -1,6 +1,6 @@
 import React from 'react';
-import LazyLoad from '@nykaa/lazy-load';
-import { styled } from '@nykaa/ui-components';
+import LazyLoad from '@eyewa/lazy-load';
+import { styled } from '@eyewa/ui-components';
 import ImagesView from './ImagesView';
 import { Images } from '../../types';
 

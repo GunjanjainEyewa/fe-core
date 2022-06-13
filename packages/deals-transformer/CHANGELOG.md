@@ -3,105 +3,105 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.14.2](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.14.1...@nykaa/deals-transformer@0.14.2) (2022-02-22)
+## [0.14.2](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.14.1...@eyewa/deals-transformer@0.14.2) (2022-02-22)
 
 
 ### Bug Fixes
 
-* add callout2 , callout3 at  banner_v2 transformer level ([ebefb56](https://github.com/Nykaa/fe-core/commit/ebefb56323b7cf9665185a18351ebe5c3cbc292e))
-* camelCasing in callOut1 and callOut2 ([fbd732e](https://github.com/Nykaa/fe-core/commit/fbd732e37fd4b0952c439efed7f9b7062878bbe4))
+* add callout2 , callout3 at  banner_v2 transformer level ([ebefb56](https://github.com/GunjanjainEyewa/fe-core/commit/ebefb56323b7cf9665185a18351ebe5c3cbc292e))
+* camelCasing in callOut1 and callOut2 ([fbd732e](https://github.com/GunjanjainEyewa/fe-core/commit/fbd732e37fd4b0952c439efed7f9b7062878bbe4))
 
 
 
 
 
-## [0.14.1](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.14.0...@nykaa/deals-transformer@0.14.1) (2021-12-13)
+## [0.14.1](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.14.0...@eyewa/deals-transformer@0.14.1) (2021-12-13)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
-# [0.14.0](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.14...@nykaa/deals-transformer@0.14.0) (2021-11-23)
+
+
+# [0.14.0](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.14...@eyewa/deals-transformer@0.14.0) (2021-11-23)
 
 
 ### Features
 
-* replace 'tracking_parameters' with 'tile_id' ([f94e0ec](https://github.com/Nykaa/fe-core/commit/f94e0ece8619d0e7f590e3a20b73a0838a65b248))
+* replace 'tracking_parameters' with 'tile_id' ([f94e0ec](https://github.com/GunjanjainEyewa/fe-core/commit/f94e0ece8619d0e7f590e3a20b73a0838a65b248))
 
 
 
 
 
-## [0.13.14](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.13...@nykaa/deals-transformer@0.13.14) (2021-11-15)
-
-
-### Bug Fixes
-
-* remove child width or condition for carousel v2 case ([a4bf0f2](https://github.com/Nykaa/fe-core/commit/a4bf0f215e8de70383bdcc63b967d19864acbd4d))
-* remove unused helper stylepick data function ([6148eae](https://github.com/Nykaa/fe-core/commit/6148eae81edbe9683d319c46759ae78103808b14))
-
-
-
-
-
-## [0.13.13](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.12...@nykaa/deals-transformer@0.13.13) (2021-11-13)
+## [0.13.14](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.13...@eyewa/deals-transformer@0.13.14) (2021-11-15)
 
 
 ### Bug Fixes
 
-* added appLink in deals transformer ([fdf0ef2](https://github.com/Nykaa/fe-core/commit/fdf0ef2b22a97051e9459287043c1c94a3f14a1e))
-* remove or condition in chlid width ([0609236](https://github.com/Nykaa/fe-core/commit/06092360f7dc2588329fcac1c087cdf17e550db4))
+* remove child width or condition for carousel v2 case ([a4bf0f2](https://github.com/GunjanjainEyewa/fe-core/commit/a4bf0f215e8de70383bdcc63b967d19864acbd4d))
+* remove unused helper stylepick data function ([6148eae](https://github.com/GunjanjainEyewa/fe-core/commit/6148eae81edbe9683d319c46759ae78103808b14))
 
 
 
 
 
-## [0.13.12](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.11...@nykaa/deals-transformer@0.13.12) (2021-10-22)
-
-
-### Bug Fixes
-
-* add bkg color in colum v2 widget ([d4496ec](https://github.com/Nykaa/fe-core/commit/d4496ecc507eb44d5fd9431bb666c0a18f1453b1))
-
-
-
-
-
-## [0.13.11](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.10...@nykaa/deals-transformer@0.13.11) (2021-09-20)
+## [0.13.13](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.12...@eyewa/deals-transformer@0.13.13) (2021-11-13)
 
 
 ### Bug Fixes
 
-* adds inventory lang in trackingData ([666b848](https://github.com/Nykaa/fe-core/commit/666b848deef4362519d8424bcef32ade85783fe9))
+* added appLink in deals transformer ([fdf0ef2](https://github.com/GunjanjainEyewa/fe-core/commit/fdf0ef2b22a97051e9459287043c1c94a3f14a1e))
+* remove or condition in chlid width ([0609236](https://github.com/GunjanjainEyewa/fe-core/commit/06092360f7dc2588329fcac1c087cdf17e550db4))
 
 
 
 
 
-## [0.13.10](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.9...@nykaa/deals-transformer@0.13.10) (2021-09-09)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.13.9](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.8...@nykaa/deals-transformer@0.13.9) (2021-08-20)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.13.8](https://github.com/Nykaa/fe-core/compare/@nykaa/deals-transformer@0.13.7...@nykaa/deals-transformer@0.13.8) (2021-06-14)
+## [0.13.12](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.11...@eyewa/deals-transformer@0.13.12) (2021-10-22)
 
 
 ### Bug Fixes
 
-* moves 'getTransformedData' function from aync to sync ([8c8e47a](https://github.com/Nykaa/fe-core/commit/8c8e47a130e57cb8bb35bef6d41aa44252d6cc4e))
+* add bkg color in colum v2 widget ([d4496ec](https://github.com/GunjanjainEyewa/fe-core/commit/d4496ecc507eb44d5fd9431bb666c0a18f1453b1))
+
+
+
+
+
+## [0.13.11](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.10...@eyewa/deals-transformer@0.13.11) (2021-09-20)
+
+
+### Bug Fixes
+
+* adds inventory lang in trackingData ([666b848](https://github.com/GunjanjainEyewa/fe-core/commit/666b848deef4362519d8424bcef32ade85783fe9))
+
+
+
+
+
+## [0.13.10](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.9...@eyewa/deals-transformer@0.13.10) (2021-09-09)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+## [0.13.9](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.8...@eyewa/deals-transformer@0.13.9) (2021-08-20)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+## [0.13.8](https://github.com/GunjanjainEyewa/fe-core/compare/@eyewa/deals-transformer@0.13.7...@eyewa/deals-transformer@0.13.8) (2021-06-14)
+
+
+### Bug Fixes
+
+* moves 'getTransformedData' function from aync to sync ([8c8e47a](https://github.com/GunjanjainEyewa/fe-core/commit/8c8e47a130e57cb8bb35bef6d41aa44252d6cc4e))
 
 
 
@@ -112,32 +112,21 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* migrating deals transformer to fe-core ([84c6eae](https://github.com/Nykaa/fe-core/commit/84c6eaebcdf73335afca56d2c01aed1ddd4ced56))
+* migrating deals transformer to fe-core ([84c6eae](https://github.com/GunjanjainEyewa/fe-core/commit/84c6eaebcdf73335afca56d2c01aed1ddd4ced56))
 
 
 
 
 
-## [0.13.6](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.13.5...@nykaa/deals-transformer@0.13.6) (2021-05-14)
+## [0.13.6](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.13.5...@eyewa/deals-transformer@0.13.6) (2021-05-14)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.13.5](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.13.2...@nykaa/deals-transformer@0.13.5) (2021-05-13)
-
-
-### Bug Fixes
-
-* in-focus widget design versions issues ([579fc6b](https://github.com/Nykaa/deals_web_sdk/commit/579fc6b04f0b88be24ad5b5c2b6bc1d8436c8847))
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
 
 
-## [0.13.4](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.13.2...@nykaa/deals-transformer@0.13.4) (2021-04-28)
+## [0.13.5](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.13.2...@eyewa/deals-transformer@0.13.5) (2021-05-13)
 
 
 ### Bug Fixes
@@ -148,7 +137,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.13.3](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.13.2...@nykaa/deals-transformer@0.13.3) (2021-04-28)
+## [0.13.4](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.13.2...@eyewa/deals-transformer@0.13.4) (2021-04-28)
 
 
 ### Bug Fixes
@@ -159,15 +148,26 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.13.2](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.13.1...@nykaa/deals-transformer@0.13.2) (2021-04-12)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
+## [0.13.3](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.13.2...@eyewa/deals-transformer@0.13.3) (2021-04-28)
 
 
+### Bug Fixes
+
+* in-focus widget design versions issues ([579fc6b](https://github.com/Nykaa/deals_web_sdk/commit/579fc6b04f0b88be24ad5b5c2b6bc1d8436c8847))
 
 
 
-## [0.13.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.13.0...@nykaa/deals-transformer@0.13.1) (2021-04-06)
+
+
+## [0.13.2](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.13.1...@eyewa/deals-transformer@0.13.2) (2021-04-12)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+## [0.13.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.13.0...@eyewa/deals-transformer@0.13.1) (2021-04-06)
 
 
 ### Bug Fixes
@@ -178,7 +178,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.13.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.12.1...@nykaa/deals-transformer@0.13.0) (2021-03-31)
+# [0.13.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.12.1...@eyewa/deals-transformer@0.13.0) (2021-03-31)
 
 
 ### Bug Fixes
@@ -196,7 +196,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.12.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.12.0...@nykaa/deals-transformer@0.12.1) (2021-03-08)
+## [0.12.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.12.0...@eyewa/deals-transformer@0.12.1) (2021-03-08)
 
 
 ### Bug Fixes
@@ -208,7 +208,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.12.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.11.1...@nykaa/deals-transformer@0.12.0) (2021-02-26)
+# [0.12.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.11.1...@eyewa/deals-transformer@0.12.0) (2021-02-26)
 
 
 ### Bug Fixes
@@ -236,15 +236,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.11.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.11.0...@nykaa/deals-transformer@0.11.1) (2021-01-28)
+## [0.11.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.11.0...@eyewa/deals-transformer@0.11.1) (2021-01-28)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
-# [0.11.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.7...@nykaa/deals-transformer@0.11.0) (2020-12-16)
+
+
+# [0.11.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.7...@eyewa/deals-transformer@0.11.0) (2020-12-16)
 
 
 ### Features
@@ -255,7 +255,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.10.7](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.6...@nykaa/deals-transformer@0.10.7) (2020-11-23)
+## [0.10.7](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.6...@eyewa/deals-transformer@0.10.7) (2020-11-23)
 
 
 ### Bug Fixes
@@ -266,23 +266,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.10.6](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.5...@nykaa/deals-transformer@0.10.6) (2020-10-30)
+## [0.10.6](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.5...@eyewa/deals-transformer@0.10.6) (2020-10-30)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.10.5](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.4...@nykaa/deals-transformer@0.10.5) (2020-10-01)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
 
 
-## [0.10.4](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.3...@nykaa/deals-transformer@0.10.4) (2020-10-01)
+## [0.10.5](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.4...@eyewa/deals-transformer@0.10.5) (2020-10-01)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+## [0.10.4](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.3...@eyewa/deals-transformer@0.10.4) (2020-10-01)
 
 
 ### Bug Fixes
@@ -293,31 +293,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.10.3](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.2...@nykaa/deals-transformer@0.10.3) (2020-09-30)
+## [0.10.3](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.2...@eyewa/deals-transformer@0.10.3) (2020-09-30)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.10.2](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.1...@nykaa/deals-transformer@0.10.2) (2020-09-08)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
 
 
-## [0.10.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.10.0...@nykaa/deals-transformer@0.10.1) (2020-09-08)
+## [0.10.2](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.1...@eyewa/deals-transformer@0.10.2) (2020-09-08)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
-# [0.10.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.9.3...@nykaa/deals-transformer@0.10.0) (2020-08-25)
+
+
+## [0.10.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.10.0...@eyewa/deals-transformer@0.10.1) (2020-09-08)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+# [0.10.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.9.3...@eyewa/deals-transformer@0.10.0) (2020-08-25)
 
 
 ### Bug Fixes
@@ -333,7 +333,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.9.3](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.9.2...@nykaa/deals-transformer@0.9.3) (2020-07-08)
+## [0.9.3](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.9.2...@eyewa/deals-transformer@0.9.3) (2020-07-08)
 
 
 ### Bug Fixes
@@ -344,15 +344,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.9.2](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.9.1...@nykaa/deals-transformer@0.9.2) (2020-05-18)
+## [0.9.2](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.9.1...@eyewa/deals-transformer@0.9.2) (2020-05-18)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
-## [0.9.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.9.0...@nykaa/deals-transformer@0.9.1) (2020-05-05)
+
+
+## [0.9.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.9.0...@eyewa/deals-transformer@0.9.1) (2020-05-05)
 
 
 ### Bug Fixes
@@ -363,7 +363,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.9.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.8.1...@nykaa/deals-transformer@0.9.0) (2020-05-05)
+# [0.9.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.8.1...@eyewa/deals-transformer@0.9.0) (2020-05-05)
 
 
 ### Features
@@ -377,7 +377,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.8.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.8.0...@nykaa/deals-transformer@0.8.1) (2020-04-29)
+## [0.8.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.8.0...@eyewa/deals-transformer@0.8.1) (2020-04-29)
 
 
 ### Bug Fixes
@@ -388,7 +388,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.8.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.7.5...@nykaa/deals-transformer@0.8.0) (2020-04-28)
+# [0.8.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.7.5...@eyewa/deals-transformer@0.8.0) (2020-04-28)
 
 
 ### Features
@@ -403,7 +403,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.5](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.7.4...@nykaa/deals-transformer@0.7.5) (2020-04-27)
+## [0.7.5](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.7.4...@eyewa/deals-transformer@0.7.5) (2020-04-27)
 
 
 ### Bug Fixes
@@ -414,39 +414,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.7.4](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.7.3...@nykaa/deals-transformer@0.7.4) (2020-04-24)
+## [0.7.4](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.7.3...@eyewa/deals-transformer@0.7.4) (2020-04-24)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.7.3](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.7.2...@nykaa/deals-transformer@0.7.3) (2020-04-23)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
 
 
-## [0.7.2](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.7.1...@nykaa/deals-transformer@0.7.2) (2020-04-22)
+## [0.7.3](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.7.2...@eyewa/deals-transformer@0.7.3) (2020-04-23)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
-
-
-
-## [0.7.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.7.0...@nykaa/deals-transformer@0.7.1) (2020-04-21)
-
-**Note:** Version bump only for package @nykaa/deals-transformer
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
 
 
-# [0.7.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.6.0...@nykaa/deals-transformer@0.7.0) (2020-04-20)
+## [0.7.2](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.7.1...@eyewa/deals-transformer@0.7.2) (2020-04-22)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+## [0.7.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.7.0...@eyewa/deals-transformer@0.7.1) (2020-04-21)
+
+**Note:** Version bump only for package @eyewa/deals-transformer
+
+
+
+
+
+# [0.7.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.6.0...@eyewa/deals-transformer@0.7.0) (2020-04-20)
 
 
 ### Features
@@ -457,7 +457,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.6.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.5.0...@nykaa/deals-transformer@0.6.0) (2020-04-17)
+# [0.6.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.5.0...@eyewa/deals-transformer@0.6.0) (2020-04-17)
 
 
 ### Features
@@ -468,7 +468,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.5.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.4.1...@nykaa/deals-transformer@0.5.0) (2020-04-17)
+# [0.5.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.4.1...@eyewa/deals-transformer@0.5.0) (2020-04-17)
 
 
 ### Features
@@ -479,15 +479,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.4.0...@nykaa/deals-transformer@0.4.1) (2020-04-15)
+## [0.4.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.4.0...@eyewa/deals-transformer@0.4.1) (2020-04-15)
 
-**Note:** Version bump only for package @nykaa/deals-transformer
-
-
+**Note:** Version bump only for package @eyewa/deals-transformer
 
 
 
-# [0.4.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.3.1...@nykaa/deals-transformer@0.4.0) (2020-04-15)
+
+
+# [0.4.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.3.1...@eyewa/deals-transformer@0.4.0) (2020-04-15)
 
 
 ### Bug Fixes
@@ -505,7 +505,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.3.0...@nykaa/deals-transformer@0.3.1) (2020-04-11)
+## [0.3.1](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.3.0...@eyewa/deals-transformer@0.3.1) (2020-04-11)
 
 
 ### Bug Fixes
@@ -516,7 +516,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.2.0...@nykaa/deals-transformer@0.3.0) (2020-04-11)
+# [0.3.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.2.0...@eyewa/deals-transformer@0.3.0) (2020-04-11)
 
 
 ### Features
@@ -528,7 +528,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/Nykaa/deals_web_sdk/compare/@nykaa/deals-transformer@0.1.0...@nykaa/deals-transformer@0.2.0) (2020-04-06)
+# [0.2.0](https://github.com/Nykaa/deals_web_sdk/compare/@eyewa/deals-transformer@0.1.0...@eyewa/deals-transformer@0.2.0) (2020-04-06)
 
 
 ### Features

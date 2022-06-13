@@ -1,7 +1,7 @@
 import React from 'react';
-import InfoIcon from '@nykaa/delivery-shared/Icons/InfoIcon';
-import { styled } from '@nykaa/ui-components';
-import { MORE_INFO_CLASS } from '@nykaa/delivery-shared/constants';
+import InfoIcon from '@eyewa/delivery-shared/Icons/InfoIcon';
+import { styled } from '@eyewa/ui-components';
+import { MORE_INFO_CLASS } from '@eyewa/delivery-shared/constants';
 import ToolTip from '../ToolTip';
 
 

@@ -1,6 +1,6 @@
 import * as React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { DescriptionProps } from '@nykaa/image-viewer-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { DescriptionProps } from '@eyewa/image-viewer-shared/types';
 
 const Wrap = styled.section`
   padding: 0 5px;

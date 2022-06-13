@@ -4,13 +4,13 @@ This SDK helps us to do multivariant A/B Experiments
 
 ### Initializing Experiment SDK
 
-    import { initializeExperiment } from "@nykaa/experiment-sdk";
+    import { initializeExperiment } from "@eyewa/experiment-sdk";
 
     initializeExperiment(experimentConfig, onEvaluationCallback);
 
 ### Re-Initializing Experiment SDK (To be used only for bypassing support for NYKAA internal users)
 
-    import { reInitializeForNykaaUsers } from '@nykaa/experiment-sdk/client/initializeExperiment';
+    import { reInitializeForNykaaUsers } from '@eyewa/experiment-sdk/client/initializeExperiment';
 
     reInitializeForNykaaUsers(experimentConfigs, pushExperiments, email);
     > Here 'email' is logged in user's email
@@ -80,7 +80,7 @@ This SDK helps us to do multivariant A/B Experiments
 
 ### Rendering Experiment
 
-    import { getExperimentVariant } from "@nykaa/experiment-sdk";
+    import { getExperimentVariant } from "@eyewa/experiment-sdk";
 
     const { isEligible, variant } = getExperimentVariant("<EXPERIMENT_ID>")
 
@@ -89,7 +89,7 @@ This SDK helps us to do multivariant A/B Experiments
 
 ### Server Side
 
-    import addExperimentStore from "@nykaa/experiment-sdk/server/helpers"
+    import addExperimentStore from "@eyewa/experiment-sdk/server/helpers"
 
     // Get the experiment variant for current user segment on SSR
     const SSRExperiments = addExperimentStore(req, get(remoteConfigs, "AB_V2", []));
@@ -105,7 +105,7 @@ This SDK helps us to do multivariant A/B Experiments
 
 ### Store integration
 
-    import connectSSRExperiments from "@nykaa/experiment-sdk/experiment-sdk/store/reducer";
+    import connectSSRExperiments from "@eyewa/experiment-sdk/experiment-sdk/store/reducer";
 
     combineReducers({
         ...,

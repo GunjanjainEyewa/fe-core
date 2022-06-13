@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import InputBox from '../../InputBox';
 import Textarea from '../../Textarea';
 import { PIN_CODE_REGEX } from '../../../constants/regex';

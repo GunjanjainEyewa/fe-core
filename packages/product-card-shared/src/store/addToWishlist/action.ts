@@ -1,4 +1,4 @@
-import logErrors from '@nykaa/logger/logErrors';
+import logErrors from '@eyewa/logger/logErrors';
 import { wishlistAdd, wishlistRemove } from './service';
 import { ADD_CUSTOM_ERROR_MSG, REMOVE_CUSTOM_ERROR_MSG } from './constant';
 import { AddToWishlist, RemoveFromWishlist } from '../../types/addToWishlist';

@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { useThemeContext } from '../context';
 import { Option, ThemeProps, VariantBodyProps } from '../../types';
 

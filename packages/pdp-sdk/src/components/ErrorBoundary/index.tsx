@@ -1,6 +1,6 @@
 // libs
 import React, { ErrorInfo } from 'react';
-import { logger } from '@nykaa/logger';
+import { logger } from '@eyewa/logger';
 
 // components
 import ErrorPage from '../ErrorPage';

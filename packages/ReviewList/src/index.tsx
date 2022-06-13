@@ -1,7 +1,7 @@
 import React from 'react';
-import ReviewCard from '@nykaa/review';
-import { defaultTranslations } from '@nykaa/review/lib/constants';
-import { Review, Product, DefaultTranslations } from '@nykaa/review-card-shared/types';
+import ReviewCard from '@eyewa/review';
+import { defaultTranslations } from '@eyewa/review/lib/constants';
+import { Review, Product, DefaultTranslations } from '@eyewa/review-card-shared/types';
 
 
 interface ImageItem {

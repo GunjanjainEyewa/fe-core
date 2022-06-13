@@ -1,13 +1,13 @@
 import * as React from 'react';
 import { action } from '@storybook/addon-actions';
 import { DEFAULT_VIEWPORT } from '@storybook/addon-viewport';
-import { styled } from '@nykaa/ui-components';
-import LocationIcon from '@nykaa/delivery-shared/Icons/LocationIcon';
+import { styled } from '@eyewa/ui-components';
+import LocationIcon from '@eyewa/delivery-shared/Icons/LocationIcon';
 import MessageList from '../src/components/PincodeInfo/MessageList';
 import PinCodeForm from '../src/components/PincodeForm';
 import Header from '../src/components/PincodeInfo/Header';
 import MoreInfo from '../src/components/PincodeInfo/MoreInfo';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 
 

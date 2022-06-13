@@ -1,7 +1,7 @@
 // libs
 import React, { memo } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 // components
 import LineSeparator from '../../../LineSeparator';

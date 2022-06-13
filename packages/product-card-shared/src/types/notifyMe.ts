@@ -1,4 +1,4 @@
-import { Theme } from '@nykaa/ui-components/themes/types';
+import { Theme } from '@eyewa/ui-components/themes/types';
 import { FormEvent } from 'react';
 import { PageLocationType } from '.';
 import { ListingProduct, PrimaryCategories, User } from '.';

@@ -8,15 +8,15 @@ It is review card which shows information like user details, review description 
 
 ### Yarn
 
-  yarn add @nykaa/review
+  yarn add @eyewa/review
 
 ### npm
 
-  npm install -S @nykaa/review
+  npm install -S @eyewa/review
 
 ## Example Usage
 ```javascript
-import ReviewCard from '@nykaa/review';
+import ReviewCard from '@eyewa/review';
   ...
   ...
   <ReviewCard

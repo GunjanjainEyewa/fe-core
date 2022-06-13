@@ -1,6 +1,6 @@
 import React from 'react';
-import CrossIcon from '@nykaa/size-chart-shared/Icons/CrossIcon';
-import { styled } from '@nykaa/ui-components';
+import CrossIcon from '@eyewa/size-chart-shared/Icons/CrossIcon';
+import { styled } from '@eyewa/ui-components';
 import { closeSizeChart } from '../../utils';
 
 interface HeaderProps {

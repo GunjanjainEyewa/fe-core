@@ -5,8 +5,8 @@ import ProductCard, { Product } from '../src/';
 import Price from '../src/Price';
 import Variants from '../src/VariantsCount';
 import { Translations } from '../src/types';
-import ThemeProvider from '@nykaa/ui-components/styles/ThemeProvider';
-import createLightTheme from '@nykaa/ui-components/themes/lightTheme/createLightTheme';
+import ThemeProvider from '@eyewa/ui-components/styles/ThemeProvider';
+import createLightTheme from '@eyewa/ui-components/themes/lightTheme/createLightTheme';
 
 const imageUrl = 'https://images-static.nykaa.com/media/catalog/product/tr:w-276,h-276,cm-pad_resize/7/7/773602042951_2.jpg';
 

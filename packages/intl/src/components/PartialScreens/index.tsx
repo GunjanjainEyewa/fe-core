@@ -1,11 +1,11 @@
 import React, { memo, useState, useEffect } from 'react';
-import { RequiredKeys, State } from '@nykaa/intl-shared/types';
+import { RequiredKeys, State } from '@eyewa/intl-shared/types';
 import { useDispatch, useSelector } from 'react-redux';
-import { toggleLanguageModal } from '@nykaa/intl-shared/store/action';
-import { DEFAULT_FEEDBACK } from '@nykaa/intl-shared/constants';
-import { shownLangPrefAutoPopup } from '@nykaa/intl-shared/utils/trackingEvents';
-import { HAS_SEEN_LANG_PREF } from '@nykaa/intl-shared/constants/cookies';
-import { getCookie } from '@nykaa/utils/cookies';
+import { toggleLanguageModal } from '@eyewa/intl-shared/store/action';
+import { DEFAULT_FEEDBACK } from '@eyewa/intl-shared/constants';
+import { shownLangPrefAutoPopup } from '@eyewa/intl-shared/utils/trackingEvents';
+import { HAS_SEEN_LANG_PREF } from '@eyewa/intl-shared/constants/cookies';
+import { getCookie } from '@eyewa/utils/cookies';
 import Feedback from './Feedback';
 import ChangeLanguage from './ChangeLanguage';
 import { CLOSE } from '../../constants';

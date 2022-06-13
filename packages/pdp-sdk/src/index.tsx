@@ -1,6 +1,6 @@
 // libs
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { useSelector, useDispatch } from 'react-redux';
 import { useParams } from 'react-router';
 

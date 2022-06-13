@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { DEFAULT_VIEWPORT } from '@storybook/addon-viewport';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import { action } from '@storybook/addon-actions';
 import ImageViewer from '../src/';
 import { openImageViewerPopup } from '../src/utils';
-import ImageList from '@nykaa/review-card-shared/components/Images';
+import ImageList from '@eyewa/review-card-shared/components/Images';
 
 const imageUrl = 'https://images-static.nykaa.com/prod-review/1617775570548_db193b7c-fd68-4856-892f-808df849621b_1.jpg?tr=w-550,h-550,pr-true';
 const imageUrl1 = 'https://images-static.nykaa.com/prod-review/1581853535462_3663f5d7-4683-4883-a213-064d405f3ea0_1.jpeg?tr=w-550,h-550,pr-true';

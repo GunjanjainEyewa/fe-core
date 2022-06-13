@@ -1,5 +1,5 @@
 import React, { memo, useState, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 import Portal from './Portal';
 

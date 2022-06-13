@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import StickyButton from './components/StickyButton';
 import handleSwipeList from './utils';
 import { BACKWARD, FORWARD } from './constants';

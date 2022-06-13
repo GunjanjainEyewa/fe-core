@@ -1,6 +1,6 @@
 import React from 'react';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { styled } from '@nykaa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
 
 export interface WorkCardProps {
   icon?: () => JSX.Element;

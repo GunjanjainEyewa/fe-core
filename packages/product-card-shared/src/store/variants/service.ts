@@ -1,7 +1,7 @@
-import logErrors from '@nykaa/logger/logErrors';
-import { getUrl, ROUTES } from '@nykaa/utils/network/urls';
-import { ApiHelper } from '@nykaa/utils/network';
-import { queryStringFromParams } from '@nykaa/utils/urls';
+import logErrors from '@eyewa/logger/logErrors';
+import { getUrl, ROUTES } from '@eyewa/utils/network/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import { queryStringFromParams } from '@eyewa/utils/urls';
 import { transformVariants } from './transformer';
 import { mandatoryRequestParams, NOT_FOUND_ERROR, VARIANT_API_ERROR } from './constants';
 import { FetchProductParams } from '../../types/variants';

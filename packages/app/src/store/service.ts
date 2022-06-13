@@ -1,11 +1,11 @@
 
-import { ApiHelper } from '@nykaa/utils/network';
-import { logger } from '@nykaa/logger';
-import { getUrl, ROUTES } from '@nykaa/utils/network/urls';
-import widgetTransformer from '@nykaa/deals-transformer';
-import { queryStringFromParams } from '@nykaa/utils/urls';
-import logErrors from '@nykaa/logger/logErrors';
-import { getDealsUrl } from '@nykaa/utils/network/urls';
+import { ApiHelper } from '@eyewa/utils/network';
+import { logger } from '@eyewa/logger';
+import { getUrl, ROUTES } from '@eyewa/utils/network/urls';
+import widgetTransformer from '@eyewa/deals-transformer';
+import { queryStringFromParams } from '@eyewa/utils/urls';
+import logErrors from '@eyewa/logger/logErrors';
+import { getDealsUrl } from '@eyewa/utils/network/urls';
 import { transformConfigFlags } from './transformer';
 import { CUSTOM_ERROR_MESSAGE, CUSTOM_WIDGET_API_ERROR } from './constants';
 

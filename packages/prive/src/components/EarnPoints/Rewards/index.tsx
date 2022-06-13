@@ -1,17 +1,17 @@
 import React from 'react';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { styled } from '@nykaa/ui-components';
-import EarnPointsCard from '@nykaa/prive-shared/components/EarnPointsCard';
-import { normalColors, goldColors, platinumColors } from '@nykaa/prive-shared/constants/colorTokens';
-import NormalShop from '@nykaa/prive-shared/Icons/NormalShop';
-import GoldShop from '@nykaa/prive-shared/Icons/GoldShopIcon';
-import PlatinumShop from '@nykaa/prive-shared/Icons/PlatinumShop';
-import { tierNames } from '@nykaa/prive-shared/constants';
-import Button, { KIND, SIZE, SHAPE } from '@nykaa/ui-components/Button';
-import TierBar from '@nykaa/prive-shared/components/TierBar';
-import Arrow from '@nykaa/prive-shared/Icons/Arrow';
-import { getImgElementFromUrl } from '@nykaa/prive-shared/utils';
-import { tierEarnBgUrlMap } from '@nykaa/prive-shared/constants';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import EarnPointsCard from '@eyewa/prive-shared/components/EarnPointsCard';
+import { normalColors, goldColors, platinumColors } from '@eyewa/prive-shared/constants/colorTokens';
+import NormalShop from '@eyewa/prive-shared/Icons/NormalShop';
+import GoldShop from '@eyewa/prive-shared/Icons/GoldShopIcon';
+import PlatinumShop from '@eyewa/prive-shared/Icons/PlatinumShop';
+import { tierNames } from '@eyewa/prive-shared/constants';
+import Button, { KIND, SIZE, SHAPE } from '@eyewa/ui-components/Button';
+import TierBar from '@eyewa/prive-shared/components/TierBar';
+import Arrow from '@eyewa/prive-shared/Icons/Arrow';
+import { getImgElementFromUrl } from '@eyewa/prive-shared/utils';
+import { tierEarnBgUrlMap } from '@eyewa/prive-shared/constants';
 
 
 const Title = styled.div`

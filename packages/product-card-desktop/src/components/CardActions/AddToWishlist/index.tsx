@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import WishlistWrapper from '@nykaa/product-card-shared/components/AddToWishlist';
-import { WishlistRenderProps, WishListProps } from '@nykaa/product-card-shared/types/addToWishlist';
-import { ButtonProps } from '@nykaa/product-card-shared/types';
+import { styled } from '@eyewa/ui-components';
+import WishlistWrapper from '@eyewa/product-card-shared/components/AddToWishlist';
+import { WishlistRenderProps, WishListProps } from '@eyewa/product-card-shared/types/addToWishlist';
+import { ButtonProps } from '@eyewa/product-card-shared/types';
 import { HeartIcon } from '../../icons';
 
 

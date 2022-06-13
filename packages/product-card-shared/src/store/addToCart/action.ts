@@ -1,4 +1,4 @@
-import logErrors from '@nykaa/logger/logErrors';
+import logErrors from '@eyewa/logger/logErrors';
 // import { setAuthCartCount } from 'shared/store/auth/action';
 import { addToCart } from './service';
 import { CUSTOM_ERROR_MSG_ADD_TO_CART } from './constants';

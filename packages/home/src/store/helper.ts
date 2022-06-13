@@ -1,13 +1,13 @@
-import { HomePageConfig } from '@nykaa/remote-config/types';
-import { deviceTypes } from '@nykaa/utils/device/constants';
-import { logger } from '@nykaa/logger';
+import { HomePageConfig } from '@eyewa/remote-config/types';
+import { deviceTypes } from '@eyewa/utils/device/constants';
+import { logger } from '@eyewa/logger';
 import {
   pageTypes,
   pageNamePrefix,
-} from '@nykaa/data-layer/constants';
-import { getErrorString } from '@nykaa/data-layer/store/helpers';
-import { ApiHelper } from '@nykaa/utils/network';
-import { AdditionalRequestOptions } from '@nykaa/utils/network/types';
+} from '@eyewa/data-layer/constants';
+import { getErrorString } from '@eyewa/data-layer/store/helpers';
+import { ApiHelper } from '@eyewa/utils/network';
+import { AdditionalRequestOptions } from '@eyewa/utils/network/types';
 import { Inventory } from './types';
 import { SEO_METADATA, SEO_DATA } from './constants';
 

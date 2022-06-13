@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import colors from '@nykaa/ui-components/tokens/colors';
+import { styled } from '@eyewa/ui-components';
+import colors from '@eyewa/ui-components/tokens/colors';
 
 
 interface Props {

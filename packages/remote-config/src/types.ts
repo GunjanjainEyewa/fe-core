@@ -1,6 +1,6 @@
-import { StoreOptions } from '@nykaa/utils/store/types';
-import { PriceRevealConfig } from '@nykaa/prices-revealed/types';
-import { ExperimentConfig } from '@nykaa/experiment-sdk/types';
+import { StoreOptions } from '@eyewa/utils/store/types';
+import { PriceRevealConfig } from '@eyewa/prices-revealed/types';
+import { ExperimentConfig } from '@eyewa/experiment-sdk/types';
 
 
 export interface Redirection {

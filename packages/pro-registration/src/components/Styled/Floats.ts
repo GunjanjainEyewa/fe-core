@@ -1,4 +1,4 @@
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 export const FloatingContainer: any = styled.div`
   position: relative;

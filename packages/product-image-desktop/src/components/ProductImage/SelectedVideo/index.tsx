@@ -1,7 +1,7 @@
 
 import React, { useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { pushEvent } from '@nykaa/data-layer/utils';
+import { styled } from '@eyewa/ui-components';
+import { pushEvent } from '@eyewa/data-layer/utils';
 import { IFRAME_ID, PRODUCT_VIDEO_PLAYED } from '../../../constants';
 import { extractVideoId } from '../../../utils';
 

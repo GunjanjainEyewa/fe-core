@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { Theme } from '@nykaa/ui-components/themes/types';
+import { styled } from '@eyewa/ui-components';
+import { Theme } from '@eyewa/ui-components/themes/types';
 
 interface Props {
   label?: any,

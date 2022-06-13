@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import SelectedImage from './SelectedImage';
 import SelectedVideo from './SelectedVideo';
 import { PRODUCT_SELECTED_IMAGE, VIDEO_TYPE } from '../../constants';

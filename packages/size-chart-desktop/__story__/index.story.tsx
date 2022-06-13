@@ -3,7 +3,7 @@ import { action } from '@storybook/addon-actions';
 import { DEFAULT_VIEWPORT } from '@storybook/addon-viewport';
 import { SIZE_CHART_LIST } from '../../size-chart-shared/constants';
 import { openSizeChart } from '../src/utils';
-import UnitSwitch from '@nykaa/size-chart-shared/components/UnitSwitch';
+import UnitSwitch from '@eyewa/size-chart-shared/components/UnitSwitch';
 import {
   getVariantData,
   imageUrl,

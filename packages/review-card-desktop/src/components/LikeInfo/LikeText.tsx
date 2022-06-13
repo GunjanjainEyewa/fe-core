@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { LikeTextProps } from '@nykaa/review-card-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { LikeTextProps } from '@eyewa/review-card-shared/types';
 
 
 const Wrapper = styled.section`

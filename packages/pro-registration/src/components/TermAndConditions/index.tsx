@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import Checkbox from '@nykaa/ui-components/Checkbox';
-import Button, { KIND, SHAPE, SIZE } from '@nykaa/ui-components/Button';
+import { styled } from '@eyewa/ui-components';
+import Checkbox from '@eyewa/ui-components/Checkbox';
+import Button, { KIND, SHAPE, SIZE } from '@eyewa/ui-components/Button';
 import Arrow from '../../icons/arrow';
 import {
   BUTTON_TEXT,

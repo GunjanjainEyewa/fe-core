@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import handleSubmitClick from '@nykaa/delivery-shared/utils';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { PIN_CODE_FOR_DELIVERY, ENTER_PINCODE } from '@nykaa/delivery-shared/constants';
-import { getCookie } from '@nykaa/utils/cookies';
+import handleSubmitClick from '@eyewa/delivery-shared/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { PIN_CODE_FOR_DELIVERY, ENTER_PINCODE } from '@eyewa/delivery-shared/constants';
+import { getCookie } from '@eyewa/utils/cookies';
 
 
 interface PinCodeFormProps {

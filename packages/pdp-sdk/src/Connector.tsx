@@ -1,8 +1,8 @@
 
 // @ts-ignore
 import { frontloadConnect } from 'react-frontload';
-import ApiHelper from '@nykaa/network';
-import { logger } from '@nykaa/logger';
+import ApiHelper from '@eyewa/network';
+import { logger } from '@eyewa/logger';
 
 // components
 import Container from './components/Container';

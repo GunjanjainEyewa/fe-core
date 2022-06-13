@@ -1,5 +1,5 @@
 import React, { memo, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 // helpers
 import { MediaInfo } from '../../types/transformer';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import InfoSection from '../../../components/InfoSection';
 import { GOT_IT_BUTTON_TEXT } from '../../../constants';
 

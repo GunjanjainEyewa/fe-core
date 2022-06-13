@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { SizeProps } from '@nykaa/product-card-shared/types/variants';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { SizeProps } from '@eyewa/product-card-shared/types/variants';
 
 const Item = styled.li`
   padding: ${({ theme }) => theme.spacing.spacing60};  

@@ -1,9 +1,9 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import Wishlist from '@nykaa/product-card-desktop/components/CardActions/AddToWishlist';
-import { ListingProduct, User } from '@nykaa/product-card-shared/types';
-import { AddToWishlist, RemoveFromWishlist } from '@nykaa/product-card-shared/types/addToWishlist';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import Wishlist from '@eyewa/product-card-desktop/components/CardActions/AddToWishlist';
+import { ListingProduct, User } from '@eyewa/product-card-shared/types';
+import { AddToWishlist, RemoveFromWishlist } from '@eyewa/product-card-shared/types/addToWishlist';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 
 const Wrapper = styled.div`

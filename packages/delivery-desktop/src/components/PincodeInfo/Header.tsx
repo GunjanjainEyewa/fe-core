@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import LocationIcon from '@nykaa/delivery-shared/Icons/LocationIcon';
-import { SelectedCountry } from '@nykaa/delivery-shared/types';
+import { styled } from '@eyewa/ui-components';
+import LocationIcon from '@eyewa/delivery-shared/Icons/LocationIcon';
+import { SelectedCountry } from '@eyewa/delivery-shared/types';
 import ChangeButton from './ChangeButton';
 
 

@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { ELIPS_TITLE_LENGTH } from '@nykaa/product-card-shared/constant/cardInfo';
-import { CardDetailProps } from '@nykaa/product-card-shared/types/cardInfo';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { ELIPS_TITLE_LENGTH } from '@eyewa/product-card-shared/constant/cardInfo';
+import { CardDetailProps } from '@eyewa/product-card-shared/types/cardInfo';
 import CardImg from './Img';
 import CardTitle from './Title';
 import VariantsCount from './VariantsCount';

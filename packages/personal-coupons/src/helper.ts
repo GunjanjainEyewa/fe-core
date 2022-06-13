@@ -1,5 +1,5 @@
 
-import { Theme } from '@nykaa/ui-components/themes/types';
+import { Theme } from '@eyewa/ui-components/themes/types';
 
 import {
   SIZE,

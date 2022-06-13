@@ -1,4 +1,4 @@
-import { queryStringObjectFromUrl } from '@nykaa/utils/urls';
+import { queryStringObjectFromUrl } from '@eyewa/utils/urls';
 import {
   PRODUCT_IMAGE_MAGNIFY,
 } from '../constants';

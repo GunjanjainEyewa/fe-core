@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { EmailFormProps, StyleProps } from '@nykaa/product-card-shared/types/notifyMe';
+import { styled } from '@eyewa/ui-components';
+import { EmailFormProps, StyleProps } from '@eyewa/product-card-shared/types/notifyMe';
 
 
 const Form = styled.form`

@@ -1,6 +1,6 @@
 import React from 'react';
-import ImageRail from '@nykaa/image-rail';
-import { styled } from '@nykaa/ui-components';
+import ImageRail from '@eyewa/image-rail';
+import { styled } from '@eyewa/ui-components';
 import { Images } from '../../types';
 import { IMAGE_ITEM_CLASS } from '../../constants';
 

@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { ShadesProps } from '@nykaa/product-card-shared/types/variants';
+import { styled } from '@eyewa/ui-components';
+import { ShadesProps } from '@eyewa/product-card-shared/types/variants';
 
 
 const ShadeImg = styled.span`

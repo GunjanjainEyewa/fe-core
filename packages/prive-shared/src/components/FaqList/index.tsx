@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import SummaryLayout from '../SummaryLayout';
 
 const FaqListWrapper = styled.div``;

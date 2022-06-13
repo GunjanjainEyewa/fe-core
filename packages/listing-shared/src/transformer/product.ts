@@ -1,4 +1,4 @@
-import { getRoundedDiscount } from '@nykaa/utils/pricing';
+import { getRoundedDiscount } from '@eyewa/utils/pricing';
 import { ListingItemObjectType } from '../constants/product';
 import { ListingProduct, TipTile } from '../type/product';
 import { getVariantType } from '../utils/product';

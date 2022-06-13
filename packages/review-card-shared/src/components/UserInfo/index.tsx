@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import VerifiedSvg from '../../Icons/verifiedSvg';
 import ProSvg from '../../Icons/proSvg';
 import { AVATAR, USER_INFO_CLASS, DEFAULT_VERIFIED_BUYER } from '../../constants';

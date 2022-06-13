@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
+import styled from '@eyewa/ui-components/styles/styled';
 
 import RatingSvg from './RatingSvg';
 import EmptyStarIcon from './EmptyStar';

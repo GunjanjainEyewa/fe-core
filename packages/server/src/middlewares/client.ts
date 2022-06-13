@@ -1,6 +1,6 @@
 import { Response, Request, NextFunction } from 'express';
-import { Client, Device } from '@nykaa/utils/device';
-import { devices } from '@nykaa/utils/device/constants';
+import { Client, Device } from '@eyewa/utils/device';
+import { devices } from '@eyewa/utils/device/constants';
 
 
 const IOS_APP = /nykaa-ios/i;

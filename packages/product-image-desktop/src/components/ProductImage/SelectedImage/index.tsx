@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactImageMagnify from 'react-image-magnify';
-import { scaleImage } from '@nykaa/utils/image';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { scaleImage } from '@eyewa/utils/image';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import {
   PRODUCT_IMAGE_MAGNIFY, VIDEO_TYPE,
 } from '../../../constants';

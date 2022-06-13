@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import { rangeError, min as minType, max as maxType } from '../../constants';
 import { inputType as InputType } from '../../types';
 

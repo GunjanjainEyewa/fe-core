@@ -1,9 +1,9 @@
 import { Dispatch } from 'redux';
 
-import { statusCodes } from '@nykaa/utils/network/constants';
-import { actionForSSRDataLayer } from '@nykaa/data-layer/store/action';
-import { pushData } from '@nykaa/data-layer/utils';
-import appEventTypes from '@nykaa/app/store/actionTypes';
+import { statusCodes } from '@eyewa/utils/network/constants';
+import { actionForSSRDataLayer } from '@eyewa/data-layer/store/action';
+import { pushData } from '@eyewa/data-layer/utils';
+import appEventTypes from '@eyewa/app/store/actionTypes';
 
 import { FetchHomePageParams } from './types';
 import actionTypes from './actionTypes';

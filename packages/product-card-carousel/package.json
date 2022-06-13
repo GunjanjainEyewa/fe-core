@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/product-card-carousel",
+  "name": "@eyewa/product-card-carousel",
   "description": "product-card-carousel",
   "version": "0.2.17",
   "main": "index.js",
@@ -17,21 +17,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/ui-components": "^2.0.0",
+    "@eyewa/ui-components": "^2.0.0",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "@nykaa/ui-components": "^2.10.3",
+    "@eyewa/ui-components": "^2.10.3",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "typescript": "3.9.5"

@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import {
   VariantProps,
   Variant,
-} from '@nykaa/product-card-shared/types/variants';
+} from '@eyewa/product-card-shared/types/variants';
 import {
   SHADE_LOADER_COUNT,
   SIZE_LOADER_COUNT,
-} from '@nykaa/product-card-shared/constant/variants';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+} from '@eyewa/product-card-shared/constant/variants';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import VariantLoader from './Loader';
 import Palette from './Palette';
 import Info from './VariantInfo';

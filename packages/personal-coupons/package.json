@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/personal-coupons",
+  "name": "@eyewa/personal-coupons",
   "description": "personal-coupons",
   "version": "0.2.51",
   "main": "index.js",
@@ -17,25 +17,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/data-layer": "^0.1.0",
-    "@nykaa/ui-components": "^2.0.0",
-    "@nykaa/utils": "^0.7.3",
+    "@eyewa/data-layer": "^0.1.0",
+    "@eyewa/ui-components": "^2.0.0",
+    "@eyewa/utils": "^0.7.3",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "@nykaa/data-layer": "^0.1.30",
-    "@nykaa/ui-components": "^2.10.3",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/data-layer": "^0.1.30",
+    "@eyewa/ui-components": "^2.10.3",
+    "@eyewa/utils": "^0.12.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "typescript": "3.6.4"

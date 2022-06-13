@@ -1,4 +1,4 @@
-import ApiHelper from '@nykaa/network';
+import ApiHelper from '@eyewa/network';
 import { PLATFORM } from '../constants';
 
 export type DEVICE_TYPE = 'MSITE' | 'WEBSITE';

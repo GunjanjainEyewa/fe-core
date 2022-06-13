@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import Input from '../inputs';
 import ResultCount from '../resultCount';
 import Error from '../error';

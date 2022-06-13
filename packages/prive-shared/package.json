@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/prive-shared",
+  "name": "@eyewa/prive-shared",
   "description": "prive-shared",
   "version": "0.5.6",
   "main": "index.js",
@@ -17,27 +17,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/logger": "^0.2.0",
-    "@nykaa/ui-components": "^2.5.3",
-    "@nykaa/utils": "^0.11.0",
+    "@eyewa/logger": "^0.2.0",
+    "@eyewa/ui-components": "^2.5.3",
+    "@eyewa/utils": "^0.11.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-swipeable": "5.5.0",
     "redux": "^4.0.1"
   },
   "devDependencies": {
-    "@nykaa/logger": "^0.2.0",
-    "@nykaa/ui-components": "^2.10.3",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/logger": "^0.2.0",
+    "@eyewa/ui-components": "^2.10.3",
+    "@eyewa/utils": "^0.12.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-swipeable": "5.5.0",

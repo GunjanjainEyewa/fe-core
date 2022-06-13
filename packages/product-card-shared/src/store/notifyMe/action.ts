@@ -1,4 +1,4 @@
-import { logger } from '@nykaa/logger';
+import { logger } from '@eyewa/logger';
 import { NotifyMeParams } from '../../types/notifyMe';
 import { NOTIFY_ME_API_ERROR } from './constants';
 import { notifyMe } from './service';

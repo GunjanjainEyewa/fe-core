@@ -1,6 +1,6 @@
 import React from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
-import { NewTags } from '@nykaa/product-card-shared/types/tags';
+import styled from '@eyewa/ui-components/styles/styled';
+import { NewTags } from '@eyewa/product-card-shared/types/tags';
 import ProTagSvg from './ProTagSvg';
 import CardImg from './Img';
 import CardTitle from './Title';

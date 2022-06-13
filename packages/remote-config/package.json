@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/remote-config",
+  "name": "@eyewa/remote-config",
   "description": "remote-config",
   "version": "0.5.2",
   "main": "index.js",
@@ -17,29 +17,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/cache": "^0.0.0",
-    "@nykaa/experiment-sdk": "0.0.3",
-    "@nykaa/logger": "^0.1.1",
-    "@nykaa/prices-revealed": "^0.0.0",
-    "@nykaa/utils": "^0.5.0",
+    "@eyewa/cache": "^0.0.0",
+    "@eyewa/experiment-sdk": "0.0.3",
+    "@eyewa/logger": "^0.1.1",
+    "@eyewa/prices-revealed": "^0.0.0",
+    "@eyewa/utils": "^0.5.0",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "@nykaa/cache": "^0.1.2",
-    "@nykaa/experiment-sdk": "^0.1.12",
-    "@nykaa/logger": "^0.2.0",
-    "@nykaa/prices-revealed": "^0.1.2",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/cache": "^0.1.2",
+    "@eyewa/experiment-sdk": "^0.1.12",
+    "@eyewa/logger": "^0.2.0",
+    "@eyewa/prices-revealed": "^0.1.2",
+    "@eyewa/utils": "^0.12.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "typescript": "3.7.2"

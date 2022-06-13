@@ -1,4 +1,4 @@
-import { statusCodes } from '@nykaa/utils/network/constants';
+import { statusCodes } from '@eyewa/utils/network/constants';
 import { AppState, ConfigFlags } from './types';
 
 

@@ -1,16 +1,16 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import EarnPointsCard from '@nykaa/prive-shared/components/EarnPointsCard';
-import SummaryLayout from '@nykaa/prive-shared/components/SummaryLayout';
-import { normalColors, goldColors, platinumColors } from '@nykaa/prive-shared/constants/colorTokens';
-import NormalReview from '@nykaa/prive-shared/Icons/NormalReview';
-import GoldReview from '@nykaa/prive-shared/Icons/GoldReview';
-import PlatinumReview from '@nykaa/prive-shared/Icons/PlatinumReview';
-import { tierNames } from '@nykaa/prive-shared/constants';
-import Button, { KIND, SIZE, SHAPE } from '@nykaa/ui-components/Button';
-import Arrow from '@nykaa/prive-shared/Icons/Arrow';
-import { getImgElementFromUrl } from '@nykaa/prive-shared/utils';
-import { tierEarnBgUrlMap } from '@nykaa/prive-shared/constants';
+import { styled } from '@eyewa/ui-components';
+import EarnPointsCard from '@eyewa/prive-shared/components/EarnPointsCard';
+import SummaryLayout from '@eyewa/prive-shared/components/SummaryLayout';
+import { normalColors, goldColors, platinumColors } from '@eyewa/prive-shared/constants/colorTokens';
+import NormalReview from '@eyewa/prive-shared/Icons/NormalReview';
+import GoldReview from '@eyewa/prive-shared/Icons/GoldReview';
+import PlatinumReview from '@eyewa/prive-shared/Icons/PlatinumReview';
+import { tierNames } from '@eyewa/prive-shared/constants';
+import Button, { KIND, SIZE, SHAPE } from '@eyewa/ui-components/Button';
+import Arrow from '@eyewa/prive-shared/Icons/Arrow';
+import { getImgElementFromUrl } from '@eyewa/prive-shared/utils';
+import { tierEarnBgUrlMap } from '@eyewa/prive-shared/constants';
 
 
 const ActionButton = styled(Button)`

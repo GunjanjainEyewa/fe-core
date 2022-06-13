@@ -10,16 +10,16 @@
 
 ### Yarn
 
-    yarn add @nykaa/lazy-load
+    yarn add @eyewa/lazy-load
 
 ### npm
 
-    npm install -S @nykaa/lazy-load
+    npm install -S @eyewa/lazy-load
 
 ## Example Usage
 
 ```javascript
-import LazyLoad from '@nykaa/lazy-load';
+import LazyLoad from '@eyewa/lazy-load';
 ...
 ...
 <LazyLoad

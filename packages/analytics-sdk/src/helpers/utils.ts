@@ -1,5 +1,5 @@
 // libs
-import { setCookie, getCookie } from '@nykaa/utils/cookies';
+import { setCookie, getCookie } from '@eyewa/utils/cookies';
 
 // defs
 import { AnalyticsCommonFields } from '../types';

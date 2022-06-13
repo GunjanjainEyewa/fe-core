@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { SoldOut, FewLeft, ShadePalette } from '@nykaa/variant-selector-shared';
-import { Variant } from '@nykaa/variant-selector-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { SoldOut, FewLeft, ShadePalette } from '@eyewa/variant-selector-shared';
+import { Variant } from '@eyewa/variant-selector-shared/types';
 
 interface ShadeProps {
   variant: Variant,

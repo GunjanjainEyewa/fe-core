@@ -1,6 +1,6 @@
 // libs
 import React, { memo } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
 // icons
 import StarActive from './icon/StarActive';

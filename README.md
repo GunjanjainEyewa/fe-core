@@ -15,7 +15,7 @@ git clone git@github.com:Nykaa/fe-core.git
 
 ### Using `https`
 ```bash
-git clone https://github.com/Nykaa/fe-core.git
+git clone https://github.com/GunjanjainEyewa/fe-core.git
 ```
 
 ---

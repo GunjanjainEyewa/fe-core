@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/image-viewer-desktop",
+  "name": "@eyewa/image-viewer-desktop",
   "description": "image-viewer-desktop",
   "version": "1.1.25",
   "main": "index.js",
@@ -17,37 +17,37 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/data-layer": "^0.1.9",
-    "@nykaa/product-card-desktop": "^0.1.2",
-    "@nykaa/product-card-shared": "^0.1.2",
-    "@nykaa/ui-components": "^2.0.0",
-    "@nykaa/utils": "^0.9.2",
+    "@eyewa/data-layer": "^0.1.9",
+    "@eyewa/product-card-desktop": "^0.1.2",
+    "@eyewa/product-card-shared": "^0.1.2",
+    "@eyewa/ui-components": "^2.0.0",
+    "@eyewa/utils": "^0.9.2",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "@nykaa/data-layer": "^0.1.30",
-    "@nykaa/product-card-desktop": "^0.9.7",
-    "@nykaa/product-card-shared": "^0.6.7",
-    "@nykaa/ui-components": "^2.10.3",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/data-layer": "^0.1.30",
+    "@eyewa/product-card-desktop": "^0.9.7",
+    "@eyewa/product-card-shared": "^0.6.7",
+    "@eyewa/ui-components": "^2.10.3",
+    "@eyewa/utils": "^0.12.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "typescript": "3.9.5"
   },
   "dependencies": {
-    "@nykaa/image-viewer-shared": "^1.1.0",
-    "@nykaa/review-card-desktop": "^1.0.43",
-    "@nykaa/review-card-shared": "^0.4.0"
+    "@eyewa/image-viewer-shared": "^1.1.0",
+    "@eyewa/review-card-desktop": "^1.0.43",
+    "@eyewa/review-card-shared": "^0.4.0"
   },
   "gitHead": "e791a12179daf90e534edbba9997480a872f2274"
 }

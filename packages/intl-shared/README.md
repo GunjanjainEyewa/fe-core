@@ -104,7 +104,7 @@ This reducer can be sent to client through redux / window variables and client c
 
 **Note**: This middleware supports for regionalization AB thru remote config as explained below.
 
- 1. Remote config exposes an experiment named '*VRN_REGION*' that just buckets users using bcookie hash value. In the nutshell, with this experiment PAN INDIA users will be buckets as per experiment variant definitions. More on this [here](https://www.npmjs.com/package/@nykaa/experiment-sdk). Sample payload -  
+ 1. Remote config exposes an experiment named '*VRN_REGION*' that just buckets users using bcookie hash value. In the nutshell, with this experiment PAN INDIA users will be buckets as per experiment variant definitions. More on this [here](https://www.npmjs.com/package/@eyewa/experiment-sdk). Sample payload -  
 ```javascript
 {
   "status": true,

@@ -1,5 +1,5 @@
 {
-  "name": "@nykaa/listing-shared",
+  "name": "@eyewa/listing-shared",
   "description": "listing-shared",
   "version": "0.8.20",
   "main": "index.js",
@@ -17,32 +17,32 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nykaa/fe-core.git"
+    "url": "git+https://github.com/GunjanjainEyewa/fe-core.git"
   },
   "contributors": [],
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Nykaa/fe-core/issues"
+    "url": "https://github.com/GunjanjainEyewa/fe-core/issues"
   },
-  "homepage": "https://github.com/Nykaa/fe-core#readme",
+  "homepage": "https://github.com/GunjanjainEyewa/fe-core#readme",
   "peerDependencies": {
-    "@nykaa/app": "^0.1.7",
-    "@nykaa/data-layer": "^0.1.7",
-    "@nykaa/deals-transformer": "^0.13.7",
-    "@nykaa/logger": "^0.1.1",
-    "@nykaa/product-card-shared": "^0.5.0",
-    "@nykaa/utils": "^0.6.0",
+    "@eyewa/app": "^0.1.7",
+    "@eyewa/data-layer": "^0.1.7",
+    "@eyewa/deals-transformer": "^0.13.7",
+    "@eyewa/logger": "^0.1.1",
+    "@eyewa/product-card-shared": "^0.5.0",
+    "@eyewa/utils": "^0.6.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "redux": "^4.0.1"
   },
   "devDependencies": {
-    "@nykaa/app": "^0.2.25",
-    "@nykaa/data-layer": "^0.1.30",
-    "@nykaa/deals-transformer": "^0.14.2",
-    "@nykaa/logger": "^0.2.0",
-    "@nykaa/product-card-shared": "^0.6.7",
-    "@nykaa/utils": "^0.12.0",
+    "@eyewa/app": "^0.2.25",
+    "@eyewa/data-layer": "^0.1.30",
+    "@eyewa/deals-transformer": "^0.14.2",
+    "@eyewa/logger": "^0.2.0",
+    "@eyewa/product-card-shared": "^0.6.7",
+    "@eyewa/utils": "^0.12.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "redux": "^4.0.1",

@@ -1,4 +1,4 @@
-import { scaleImage } from '@nykaa/utils/image';
+import { scaleImage } from '@eyewa/utils/image';
 import { HandleImageClick } from '../types';
 import { ImageItem } from '../types/Product';
 import { IMAGE_VIEWER_OVERLAY, IMAGE_VIEWER_POPUP } from '../constants';

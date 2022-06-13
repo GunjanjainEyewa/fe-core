@@ -1,4 +1,4 @@
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 
 export const normalColors = {
   memberShipInfoColor: '#964D5D',

@@ -1,6 +1,6 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { Variant, PaletteProps } from '@nykaa/product-card-shared/types/variants';
+import { styled } from '@eyewa/ui-components';
+import { Variant, PaletteProps } from '@eyewa/product-card-shared/types/variants';
 import Shades from './Shades';
 import Size from './Size';
 

@@ -14,17 +14,17 @@
 
 ### Yarn
 
-  yarn add @nykaa/review-filters
+  yarn add @eyewa/review-filters
 
 ### npm
 
-  npm install -S @nykaa/review-filters
+  npm install -S @eyewa/review-filters
 
 # Usage
 
 # Filters
 ```javascript
-import Filters from '@nykaa/review-filters/lib/mobile/Filters';
+import Filters from '@eyewa/review-filters/lib/mobile/Filters';
   ...
   ...
   <Filters
@@ -73,7 +73,7 @@ An callback function can be passed as `handleClick` to be called on *click* on f
 
 # Sort
 ```javascript
-import Sort from '@nykaa/review-filters/lib/mobile/Sort';
+import Sort from '@eyewa/review-filters/lib/mobile/Sort';
   ...
   ...
   <Sort
@@ -122,7 +122,7 @@ An callback function can be passed as `openSort` to be called on *click* on sort
 
 # SortModal
 ```javascript
-import SortModal from '@nykaa/review-filters/lib/mobile/SortModal';
+import SortModal from '@eyewa/review-filters/lib/mobile/SortModal';
   ...
   ...
   <SortModal
@@ -184,7 +184,7 @@ The `text` is the heading of the sortmodal.
 
 # Variants
 ```javascript
-import Variants from '@nykaa/review-filters/lib/mobile/Variants';
+import Variants from '@eyewa/review-filters/lib/mobile/Variants';
   ...
   ...
   <Variants
@@ -236,7 +236,7 @@ The `variantType` is type of product's variant.
 
 # VariantModal
 ```javascript
-import VariantModal from '@nykaa/review-filters/lib/mobile/VariantModal';
+import VariantModal from '@eyewa/review-filters/lib/mobile/VariantModal';
   ...
   ...
   <VariantModal

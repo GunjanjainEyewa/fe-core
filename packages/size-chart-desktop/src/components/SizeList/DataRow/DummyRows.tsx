@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { OptionData } from '@nykaa/size-chart-shared/types';
-import { getDummyRowData } from '@nykaa/size-chart-shared/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { OptionData } from '@eyewa/size-chart-shared/types';
+import { getDummyRowData } from '@eyewa/size-chart-shared/utils';
 
 
 interface DummyRowProps {

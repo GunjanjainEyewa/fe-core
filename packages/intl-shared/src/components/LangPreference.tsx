@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { styled as Styled } from '@nykaa/ui-components';
+import { styled as Styled } from '@eyewa/ui-components';
 import Radio from './Radio';
 import { RequiredKeys } from '../types';
 

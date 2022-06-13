@@ -1,8 +1,8 @@
 import React from 'react';
 import { Swipeable } from 'react-swipeable';
 
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import VideoThumbnail from './VideoThumbnail';
 import {
   onSwipeUp,

@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
-import { styled } from '@nykaa/ui-components';
-import { scaleImage } from '@nykaa/utils/image';
+import { styled } from '@eyewa/ui-components';
+import { scaleImage } from '@eyewa/utils/image';
 import { BadgeValueProps } from '../../../../../types/ProductInfo';
 
 

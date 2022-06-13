@@ -1,9 +1,9 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import RatingInfo from '@nykaa/product-card/RatingInfo';
-import Price from '@nykaa/product-card/Price';
-import { scaleImageInUri } from '@nykaa/utils/image';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import RatingInfo from '@eyewa/product-card/RatingInfo';
+import Price from '@eyewa/product-card/Price';
+import { scaleImageInUri } from '@eyewa/utils/image';
 import { Product } from '../../types';
 import { SMALL } from '../../constants';
 

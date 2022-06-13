@@ -1,6 +1,6 @@
 import React from 'react';
-import LazyLoad from '@nykaa/lazy-load';
-import styled from '@nykaa/ui-components/styles/styled';
+import LazyLoad from '@eyewa/lazy-load';
+import styled from '@eyewa/ui-components/styles/styled';
 import { calculateHeight } from '../helper';
 import Image from './image';
 

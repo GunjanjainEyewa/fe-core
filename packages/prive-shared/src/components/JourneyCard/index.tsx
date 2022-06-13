@@ -1,6 +1,6 @@
 import React from 'react';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import { styled } from '@nykaa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
 import TierBar from '../TierBar';
 import { normalColors, goldColors, platinumColors } from '../../constants/colorTokens';
 import { TierProps } from '../../types';

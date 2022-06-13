@@ -1,8 +1,8 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
-import LikeSvg from '@nykaa/review-card-shared/Icons/likeSvg';
-import { LikeProps } from '@nykaa/review-card-shared/types';
+import { styled } from '@eyewa/ui-components';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
+import LikeSvg from '@eyewa/review-card-shared/Icons/likeSvg';
+import { LikeProps } from '@eyewa/review-card-shared/types';
 import LikeText from './LikeText';
 import { defaultTranslations } from '../../constants';
 

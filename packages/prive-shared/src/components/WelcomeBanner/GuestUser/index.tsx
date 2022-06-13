@@ -1,7 +1,7 @@
 import React from 'react';
-import { styled } from '@nykaa/ui-components';
-import Button, { KIND, SHAPE, SIZE } from '@nykaa/ui-components/Button';
-import { hexToRgb } from '@nykaa/ui-components/styles/utils';
+import { styled } from '@eyewa/ui-components';
+import Button, { KIND, SHAPE, SIZE } from '@eyewa/ui-components/Button';
+import { hexToRgb } from '@eyewa/ui-components/styles/utils';
 import NykaaPriveLogo from '../../../Icons/NykaaPriveLogo';
 
 type WelcomeBannerGuestProps = {

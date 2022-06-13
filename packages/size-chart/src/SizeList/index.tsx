@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import styled from '@nykaa/ui-components/styles/styled';
-import { OptionData, UnitProps } from '@nykaa/size-chart-shared/types';
+import styled from '@eyewa/ui-components/styles/styled';
+import { OptionData, UnitProps } from '@eyewa/size-chart-shared/types';
 import { getHeaderHeight } from '../utils';
 import FirstColumn from './FirstColumn';
 import DataColumn from './DataColumn';

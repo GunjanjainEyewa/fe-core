@@ -1,4 +1,4 @@
-import { PageRootTypes, PageSource } from '@nykaa/data-layer/constants';
+import { PageRootTypes, PageSource } from '@eyewa/data-layer/constants';
 import { PageLocationProps, PageLocationType } from '../type';
 
 export const SEARCH_QUERY_WHITELIST = /[^\w-'&. ]/g;

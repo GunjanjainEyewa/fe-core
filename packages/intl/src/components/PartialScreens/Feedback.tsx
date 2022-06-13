@@ -1,11 +1,11 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 
-import { FEEDBACK_MODAL_VISIBLE_PIXEL } from '@nykaa/intl-shared/constants';
-import { feedbackClick, shownFeedback } from '@nykaa/intl-shared/utils/trackingEvents';
-import { closeFeedback } from '@nykaa/intl-shared/utils/trackingEvents';
-import { getCookie, setCookie } from '@nykaa/utils/cookies';
-import { HAS_SEEN_FEEDBACK } from '@nykaa/intl-shared/constants/cookies';
+import { FEEDBACK_MODAL_VISIBLE_PIXEL } from '@eyewa/intl-shared/constants';
+import { feedbackClick, shownFeedback } from '@eyewa/intl-shared/utils/trackingEvents';
+import { closeFeedback } from '@eyewa/intl-shared/utils/trackingEvents';
+import { getCookie, setCookie } from '@eyewa/utils/cookies';
+import { HAS_SEEN_FEEDBACK } from '@eyewa/intl-shared/constants/cookies';
 import Star from '../Icons/Star';
 import Title from './Title';
 import View from './View';

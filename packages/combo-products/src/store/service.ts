@@ -1,7 +1,7 @@
-import logErrors from '@nykaa/logger/logErrors';
-import { ApiHelper } from '@nykaa/utils/network';
-import { ROUTES, getUrl } from '@nykaa/utils/network/urls';
-import { HttpMethods } from '@nykaa/utils/network/constants';
+import logErrors from '@eyewa/logger/logErrors';
+import { ApiHelper } from '@eyewa/utils/network';
+import { ROUTES, getUrl } from '@eyewa/utils/network/urls';
+import { HttpMethods } from '@eyewa/utils/network/constants';
 import transformcomboProductData from './transformer';
 import { ERROR_IN_FETCHING_COMBO_PRODUCT_API } from '../constants';
 

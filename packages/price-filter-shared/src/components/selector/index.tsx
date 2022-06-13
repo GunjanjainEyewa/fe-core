@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { styled } from '@nykaa/ui-components';
+import { styled } from '@eyewa/ui-components';
 import Thumb from '../thumb';
 import { inputType as InputType } from '../../types';
 import { min as minType, max as maxType } from '../../constants';

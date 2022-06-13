@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import { styled } from '@nykaa/ui-components';
-import Radio, { ALIGN, TYPES } from '@nykaa/ui-components/Radio';
-import RadioGroup from '@nykaa/ui-components/Radio/Styled/group';
-import Button, { KIND, SHAPE, SIZE } from '@nykaa/ui-components/Button';
-import { Spinner } from '@nykaa/ui-components/Loader';
+import { styled } from '@eyewa/ui-components';
+import Radio, { ALIGN, TYPES } from '@eyewa/ui-components/Radio';
+import RadioGroup from '@eyewa/ui-components/Radio/Styled/group';
+import Button, { KIND, SHAPE, SIZE } from '@eyewa/ui-components/Button';
+import { Spinner } from '@eyewa/ui-components/Loader';
 import StyledSubTitle from '../Styled/SubTitle';
 import InputBox from '../InputBox';
 import { MOBILE_NUMBER_REGEX } from '../../constants/regex';

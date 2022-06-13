@@ -1,8 +1,8 @@
 import 'jsdom-global/register'; // for providing
 import React from 'react';
 import { mount } from 'enzyme';
-import ThemeProvider from '@nykaa/ui-components/styles/ThemeProvider';
-import { createLightTheme } from '@nykaa/ui-components/themes';
+import ThemeProvider from '@eyewa/ui-components/styles/ThemeProvider';
+import { createLightTheme } from '@eyewa/ui-components/themes';
 import FewLeft from '../components/FewLeft';
 import { FEW_LEFT, SOLD_OUT } from '../constant';
 import SoldOut from '../components/SoldOut';
