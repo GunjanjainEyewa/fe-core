@@ -1,6 +1,6 @@
 {
 	"name": "@work/ui-components",
-	"version": "2.10.3",
+	"version": "3.10.1",
 	"description": "UI Components",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
